@@ -3,17 +3,16 @@ header_pages:
   - about.md
   - _posts
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: '(c) 2026 - JINN/Z'
 
 plugins:
   - jekyll-seo-tag
 
-# Theme options
-# style: hacker
-# listen_for_clients_preferred_style: true # true or false (default)
+Theme options
+style: hacker
 
-# Fonts
-# disable_google_fonts: false # set true to prevent loading fonts.googleapis.com
+Fonts
+disable_google_fonts: true
 
 # Tracking (generic, optional; loads only in production)
 # tracking:
