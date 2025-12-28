@@ -4,6 +4,7 @@ layout: default
 permalink: /projects/
 robots: noindex
 ---
+# PROJECTS
 
 ## IN PROGRESS
 
