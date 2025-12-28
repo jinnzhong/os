@@ -1,5 +1,5 @@
 ---
-title: about
+title: abt
 layout: default
 permalink: /about/
 robots: noindex
