@@ -4,6 +4,7 @@ layout: default
 permalink: /about/
 robots: noindex
 ---
+## BIO
 
 Jinn was born and raised in East Vancouver to Hong Kong and Vietnamese immigrants. He lives in the suburbs with his wife, three teenage monsters, and a Chihuahua-Beagle rescue from Mexico. He works at an ad agency.
 
