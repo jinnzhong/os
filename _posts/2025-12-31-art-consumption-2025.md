@@ -8,7 +8,7 @@ categories: tracking
 ## January 2025
 
 ||||||
-|---:|:---:|:---|:---|:---|
+|---|---|---|---|---|
 |01/01|📺|Dune: Prophecy (2024) S1E2 "Two Wolves"|John Cameron|Elizabeth Padden & Kor Adana|
 |01/01|💬|Birds of Prey (2023) #11|Kelly Thompson|Various[^1]|
 |01/02|💬|Ultimate X-Men (2024) #6|Peach Momoko|Peach Momoko|
@@ -199,7 +199,7 @@ categories: tracking
 
 ## February 2025
 ||||||
-|---:|:---:|:---|:---|:---|
+|---|---|---|---|---|
 |02/01|📺|St. Denis Medical (2024) S1E9 "You Got to Have a Plan"|Bill Benz|Naomi Ekperigin|
 |02/01|📃|Like a River Loves the Sky (2018)|Emma Törzs|Uncanny|
 |02/01|💬|The Power Fantasy (2024) #5|Kieron Gillen|Caspar Wijngaard|
@@ -309,7 +309,7 @@ categories: tracking
 
 ## March 2025
 ||||||
-|---:|:---:|:---|:---|:---|
+|---|---|---|---|---|
 |03/01|📃|Except for the Sickness I’m Quite Healthy Now. You Can Believe That. (1968)|Thomas Glynn|Paris Review|
 |03/01|📃|Likely Lake (2002)|Mary Robison|Paris Review|
 |03/01|💬|Wonder Woman: Earth One (2016) V1|Grant Morrison|Yanick Paquette|
@@ -464,7 +464,7 @@ categories: tracking
 
 ## April 2025
 ||||||
-|---:|:---:|:---|:---|:---|
+|---|---|---|---|---|
 |04/02|💬|We're Taking Everyone Down with Us #1|Matthew Rosenberg|Stefano Landin|
 |04/02|💬|Poison Ivy (2022) #32|G. Willow Wilson|Brian Level|
 |04/02|💬|Justice League: The Atom Project (2025) #4|Ryan Parrott & John Ridley|Mike Perkins|
@@ -591,7 +591,7 @@ categories: tracking
 
 ## May 2025
 ||||||
-|---:|:---:|:---|:---|:---|
+|---|---|---|---|---|
 |05/02|💬|Action Comics (1938) #1|Jerry Siegel|Joe Schuster|
 |05/02|💬|Justice League of America (1960) #45|Gardner Fox|Alex Sekowsky|
 |05/02|📃|The Beau Monde of Mrs. Bridgeport (1955)|Evan S. Connell|Paris Review|
@@ -749,7 +749,7 @@ categories: tracking
 
 ## June 2025
 ||||||
-|---:|:---:|:---|:---|:---|
+|---|---|---|---|---|
 |06/01|📃|Me, Rory and Aurora (2021)|Jonas Eika (trans. Sherilyn Nicolette Hellberg)|Granta|
 |06/01|📃|The Complete (2022)|Gabriel Smith|The Drift|
 |06/01|💬|Action Comics (1938) #248 “The Man No Prison Could Hold!”|Bill Finger|Wayne Boring|
@@ -907,7 +907,7 @@ categories: tracking
 
 ## July 2025
 ||||||
-|---:|:---:|:---|:---|:---|
+|---|---|---|---|---|
 |07/01|💬|Superman: Birthright (2003) #1 "In the Beginning..."|Mark Waid|Leinil Francis Yu|
 |07/01|💬|Superman: Birthright (2003) #2 "Heart of Darkness"|Mark Waid|Leinil Francis Yu|
 |07/01|💬|Superman: Birthright (2003) #3 "A Legacy Reborn"|Mark Waid|Leinil Francis Yu|
@@ -1085,7 +1085,7 @@ categories: tracking
 
 ## August 2025
 ||||||
-|---:|:---:|:---|:---|:---|
+|---|---|---|---|---|
 |08/02|💬|She-Hulk (2022) #8|Rainbow Rowell|Takeshi Miyazawa|
 |08/02|💬|She-Hulk (2022) #9|Rainbow Rowell|Takeshi Miyazawa|
 |08/02|📰|Story Genius (2016)|Lisa Cron||
@@ -1223,7 +1223,7 @@ categories: tracking
 ## September 2025
 
 ||||||
-|---:|:---:|:---|:---|:---|
+|---|---|---|---|---|
 |09/01|💬|DC: The New Frontier (2004) #1 "Our Fighting Forces"|Darwyn Cooke|Darwyn Cooke|
 |09/01|💬|DC: The New Frontier (2004) #2 "Strange Adventures"|Darwyn Cooke|Darwyn Cooke|
 |09/01|🎸|Ginger Root|The Orpheum||
@@ -1333,7 +1333,7 @@ categories: tracking
 ## October 2025
 
 ||||||
-|---:|:---:|:---|:---|:---|
+|---|---|---|---|---|
 |10/01|💬|Adventures of Superman: The Book of El (2025) #2|Phillip Kennedy Johnson|Scott Godlewski|
 |10/01|💬|Justice League: The Omega Act Special (2025) #1|Joshua Williamson|Cian Tormey|
 |10/01|💬|Birds of Prey (2023) #26|Kelly Thompson|Sami Basri|
@@ -1466,7 +1466,7 @@ categories: tracking
 ## November 2025
 
 ||||||
-|---:|:---:|:---|:---|:---|
+|---|---|---|---|---|
 |11/02|📺|High Potential (2024) S2E7 "The One That Got Away"|Nancy Hower|Marc Halsey|
 |11/03|📃|Mad People of Paris (2022)|Rodrigo Blanco Calderón (trans. Thomas Bunstead)|Southwest Review|
 |11/04|💬|The New Gods (2024) #11|Ram V|Evan Cagle & Denys Cowan|
@@ -1544,7 +1544,7 @@ categories: tracking
 ## December 2025
 
 ||||||
-|---:|:---:|:---|:---|:---|
+|---|---|---|---|---|
 |12/03|💬|The Ultimates (2024) #18|Deniz Camp|Juan Frigeri|
 |12/03|💬|Supergirl (2025) #7|Sophie Campbell|Sophie Campbell|
 |12/03|💬|The New Gods (2024) #12|Ram V|Evan Cagle & Phil Hester|
@@ -1586,7 +1586,7 @@ categories: tracking
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |JAN |0    |2    |0    |3    |157  |0    |0    |19   |6    |1    |0    |1    |0    |0    |
 |FEB |0    |0    |0    |9    |83   |0    |0    |4    |9    |0    |0    |0    |0    |1    |
 |MAR |0    |4    |0    |27   |103  |0    |0    |13   |3    |1    |0    |0    |0    |0    |
