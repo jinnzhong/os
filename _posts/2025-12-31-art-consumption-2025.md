@@ -3,6 +3,7 @@ layout: post
 title: "Art Consumption 2025"
 date: 2025-12-31 23:59:59 -0800
 categories: tracking
+robots: noindex
 ---
 # ART CONSUMPTION 2025
 
