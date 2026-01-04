@@ -12,6 +12,7 @@ robots: noindex
 ||||||
 |---|---|---|---|---|
 |01/02|📰|The Road to Character (2016)|David Brooks||
+|01/03|📽️|The Hunger Games (2012)|Gary Ross|Gary Ross, Suzanne Collins, & Billy Ray|
 
 
 
