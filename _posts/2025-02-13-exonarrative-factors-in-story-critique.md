@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exonarrative Factors in Story Critique"
+title: "Exonarrative Factors"
 date: 2025-02-13
 categories: storycraft
 robots: noindex
