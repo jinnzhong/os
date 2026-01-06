@@ -16,6 +16,11 @@ plugins:
 style: hacker
 disable_google_fonts: true
 
+tracking:
+  script_src:
+    - https://plausible.example.com/js/plausible.js
+csp_extra: "script-src 'self' https://plausible.example.com; connect-src 'self' https://plausible.example.com;"
+
 # Tracking (generic, optional; loads only in production)
 # tracking:
 #   script_src:
