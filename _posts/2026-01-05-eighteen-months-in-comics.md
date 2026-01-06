@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My 18 Months in Comics"
+title: "18 Months in Comics"
 date: 2026-01-05
 categories: storycraft
 robots: noindex
