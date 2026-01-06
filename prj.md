@@ -12,7 +12,7 @@ robots: noindex
 |---| ---------- | ------ | -----                             |
 | 1 | prj: GHOST | V0     | FRMT/MECH good, needs THB/TYS/ARC |
 | 2 | prj: PETER | v1     | review SSC feedback, polish       |
-| 3 | prj: CURSE | v0     | draft! Too much research!         |
+| 3 |            |        |                                   |
 
 ## BACKLOG
 
@@ -35,4 +35,4 @@ robots: noindex
 
 | # | code       | status | notes                             |
 |---| ---------- | ------ | -----                             |
-| 1 | prj: SAVED | 4/14r  | 2 custom Rs, 2 form Rs            |
+| 1 | prj: SAVED | 5/14r  | 2 custom Rs, 3 form Rs            |
