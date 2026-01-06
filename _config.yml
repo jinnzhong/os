@@ -19,7 +19,7 @@ disable_google_fonts: true
 tracking:
   script_src:
     - https://plausible.io/js/pa-OpLRUqU-eAWPy6_fvX79O.js
-csp_extra: "script-src 'self' https://plausible.example.com; connect-src 'self' https://plausible.example.com;"
+csp_extra: "script-src 'self' https://plausible.io; connect-src 'self' https://plausible.io;"
 
 # Tracking (generic, optional; loads only in production)
 # tracking:
