@@ -1,20 +1,3 @@
-{%- comment -%}
-  Generic tracker include.
-  Configure in _config.yml under `tracking`:
-    tracking:
-      script_src: "https://example.com/tracker.js" # or an array of URLs
-      async: true   # optional, default: true
-      defer: false  # optional
-      init: |
-        // Optional inline init snippet for your tracker
-        // e.g., window.myTracker('init', { siteId: '123' });
-
-  Notes:
-  - This file renders only in production (see head.html).
-  - If you use external scripts or inline init, you likely need to extend
-    the CSP via `csp_extra` in _config.yml (script-src/connect-src, etc.).
-{%- endcomment -%}
-
 {%- assign async_attr = site.tracking.async | default: true -%}
 {%- assign defer_attr = site.tracking.defer | default: false -%}
 
