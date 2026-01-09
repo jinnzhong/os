@@ -20,5 +20,3 @@ tracking:
    script_src: "https://plausible.io/js/pa-OpLRUqU-eAWPy6_fvX79O.js"
    async: true
    defer: false
-  
-csp_extra: "script-src 'self' https://plausible.io; connect-src 'self' https://plausible.io;"
