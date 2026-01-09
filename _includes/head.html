@@ -30,8 +30,12 @@
   {%- endif -%}
   {%- endif -%}
 
-  {%- if jekyll.environment == 'production' and site.tracking -%}
-  {%- include tracker.html -%}
+<script async src="https://plausible.io/js/pa-OpLRUqU-eAWPy6_fvX79O.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
+
   {%- endif -%}
   
 </head>
