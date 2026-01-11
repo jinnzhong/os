@@ -13,6 +13,11 @@ robots: noindex
 |---|---|---|---|---|
 |01/02|📰|The Road to Character (2016)|David Brooks||
 |01/03|📽️|The Hunger Games (2012)|Gary Ross|Gary Ross, Suzanne Collins, & Billy Ray|
+|01/06|📃|The Man Who Knew How (1932)|Dorothy L. Sayers|Harpers Bazaar|
+|01/07|📺|St. Denis Medical (2024) S2E9 "You're in His Bubble Space"|Bill Benz|Emman Sadorra|
+|01/07|📺|The Simpsons (1993) S37E13 "Seperance"|Matthew Nastuk|Jeff Westbrook|
+|01/10|📃|The Girl with the Silver Eyes (1924)|Dashiell Hammett|Black Mask| 
+|01/10|📽️|Wake Up Dead Man (2025)|Rian Johnson|Rian Johnson|
 
 
 
