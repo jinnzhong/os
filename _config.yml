@@ -20,3 +20,5 @@ tracking:
    script_src: "https://plausible.io/js/pa-OpLRUqU-eAWPy6_fvX79O.js"
    async: true
    defer: false
+
+Content-Security-Policy: default-src 'self'; script-src https://plausible.io; connect-src https://plausible.io
