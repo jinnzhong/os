@@ -18,7 +18,9 @@ robots: noindex
 |01/07|📺|The Simpsons (1993) S37E13 "Seperance"|Matthew Nastuk|Jeff Westbrook|
 |01/10|📃|The Girl with the Silver Eyes (1924)|Dashiell Hammett|Black Mask| 
 |01/10|📽️|Wake Up Dead Man (2025)|Rian Johnson|Rian Johnson|
-
+|01/11|📺|Abbott Elementary (2021) S5E "Mall"|Randall Einhorn|Riley Dufurrena|
+|01/15|📜|Vermeer's Hat (2008)|Timothy Brook||
+|01/15|📃|Red Wind (1938)|Raymond Chandler|Dime Detective|
 
 
 
@@ -48,20 +50,22 @@ robots: noindex
 **NOTE:** Due to space limitations, columns 4/5 mean different things based on medium.
 
 * 📖 - book (novel): author only
-* 📜 - book/article (history): author only
-* 📰 - book (current): author only
 * 📃 - short story: author/publication
+* 📜 - book/article (history): author only
+* 📰 - book/essay (current): author only
 * 💬 - comic: writer/artist
 * 📑 - module: designer/system
 * 🎧 - audiobook: author/narrator
 * 📺 - tv episode: director/writer
 * 📽️ - film: director/writer
-* 👺 - TTRPG: DM/players' initials
-* 🎲 - board game: designer / players score
 * 🎭 - musical: music & lyrics/book
 * 🎭 - play: playwright/director
+* 💿 - album: artist only
+* 💿 - classical piece: composer/performer
 * 🎸 - live music: band or performer/location
 * 🏛️ - museum/exhibit: artist/location
+* 👺 - TTRPG: DM/players' initials
+* 🎲 - board game: designer / players score
 
 
 
