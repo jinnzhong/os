@@ -20,5 +20,21 @@ tracking:
    script_src: "https://plausible.io/js/pa-OpLRUqU-eAWPy6_fvX79O.js"
    async: true
    defer: false
+   init: |
+      window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+      plausible.init()
 
 Content-Security-Policy: default-src 'self'; script-src https://plausible.io; connect-src https://plausible.io
+
+# tracking:
+#   script_src:
+#     - https://analytics.example.com/matomo.js
+#   async: true   # default true
+#   defer: false  # default false
+#   # Optional inline init snippet (requires CSP allowance if used)
+#   # init: |
+#   #   var _paq = window._paq = window._paq || [];
+#   #   _paq.push(['trackPageView']);
+#   #   _paq.push(['enableLinkTracking']);
+#   #   _paq.push(['setTrackerUrl', 'https://analytics.example.com/matomo.php']);
+#   #   _paq.push(['setSiteId', '1']);
