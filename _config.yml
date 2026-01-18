@@ -25,7 +25,7 @@ tracking:
       window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
       plausible.init()
 
-Content-Security-Policy: default-src 'self'; script-src https://plausible.io; connect-src https://plausible.io
+csp_extra: "script-src 'self' https://plausible.io; connect-src 'self' https://plausible.io; img-src 'self' https://plausible.io;"
 
 # tracking:
 #   script_src:
