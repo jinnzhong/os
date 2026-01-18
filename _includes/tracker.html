@@ -4,7 +4,7 @@
 {%- if site.tracking.script_src -%}
   {%- assign _srcs = site.tracking.script_src -%}
   {%- for s in _srcs -%}
-<script{% if async_attr %} async{% endif %}{% if defer_attr %} defer{% endif %} src="https://plausible.io/js/pa-OpLRUqU-eAWPy6_fvX79O.js"></script>
+<script{% if async_attr %} async{% endif %}{% if defer_attr %} defer{% endif %} src="{ https://plausible.io/js/pa-OpLRUqU-eAWPy6_fvX79O.js }"></script>
   {%- endfor -%}
 {%- endif -%}
 
