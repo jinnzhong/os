@@ -17,7 +17,8 @@ style: hacker
 disable_google_fonts: true
 
 tracking:
-   script_src: "https://plausible.io/js/pa-OpLRUqU-eAWPy6_fvX79O.js"
+   script_src: 
+     - https://plausible.io/js/pa-OpLRUqU-eAWPy6_fvX79O.js
    async: true
    defer: false
    init: |
