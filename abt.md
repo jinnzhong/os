@@ -14,4 +14,4 @@ His Chinese name is 鐘藝進. The Cantonese jyutping pronunciation is _zung1 ng
 
 ## TOOLS
 
-Jinn writes in longhand with a Pelikan Souverän M809 EF named _Orpheus_, brainstorming on blank MD paper, drafting on lined A4 Rhodia notepads. Orpheus bleeds Iroshizuku fuyu-syogun.
+Jinn writes in longhand with a Pelikan Souverän M809 EF named _Orpheus_. Orpheus bleeds Iroshizuku fuyu-syogun.
