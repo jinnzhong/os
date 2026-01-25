@@ -21,7 +21,20 @@ robots: noindex
 |01/11|📺|Abbott Elementary (2021) S5E "Mall"|Randall Einhorn|Riley Dufurrena|
 |01/15|📜|Vermeer's Hat (2008)|Timothy Brook||
 |01/15|📃|Red Wind (1938)|Raymond Chandler|Dime Detective|
-
+|01/17|📺|High Potential (2024) S2E9 "Under the Rug"|Viet Nguyen|Bob Goodman|
+|01/17|📃|The Wench is Dead (1953)|Frederic Brown|Manhunt|
+|01/18|📃|Gone Girl (1952)|Ross MacDonald|Manhunt|
+|01/19|💬|Eight Billion Genies (2022) #1|Charles Soule|Ryan Browne|
+|01/19|💬|Eight Billion Genies (2022) #2|Charles Soule|Ryan Browne|
+|01/19|📺|Agatha Christie's Seven Dials (2026) S1E1 "Bundle of Love"|Chris Sweeney|Chris Chibnall|
+|01/22|💬|Eight Billion Genies (2022) #3|Charles Soule|Ryan Browne|
+|01/22|💬|Eight Billion Genies (2022) #4|Charles Soule|Ryan Browne|
+|01/22|💬|Eight Billion Genies (2022) #5|Charles Soule|Ryan Browne|
+|01/22|💬|Eight Billion Genies (2022) #6|Charles Soule|Ryan Browne|
+|01/22|💬|Eight Billion Genies (2022) #7|Charles Soule|Ryan Browne|
+|01/22|💬|Eight Billion Genies (2022) #8|Charles Soule|Ryan Browne|
+|01/22|🎭|Moulin Rouge! The Musical (2018)|Jukebox Musical|John Logan|
+|01/24|🎧|Emperor: A New Life of Charles V (2019)|Geoffrey Parker|Nigel Patterson|
 
 
 ## Numbers
