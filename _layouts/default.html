@@ -7,7 +7,7 @@
   extend via `csp_extra` in your _config.yml.
 {%- endcomment -%}
 {%- capture csp -%}
-default-src 'self' *.plausible.io;
+default-src 'self' https://*.plausible.io;
 script-src 'self';
 connect-src 'self';
 base-uri 'self';
