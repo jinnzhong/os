@@ -7,9 +7,9 @@
   extend via `csp_extra` in your _config.yml.
 {%- endcomment -%}
 {%- capture csp -%}
-default-src 'self';
-script-src 'self' https://plausible.io/js/pa-OpLRUqU-eAWPy6_fvX79O.js;
-connect-src 'self' https://plausible.io/js/pa-OpLRUqU-eAWPy6_fvX79O.js;
+default-src 'self' *.plausible.io;
+script-src 'self';
+connect-src 'self';
 base-uri 'self';
 form-action 'none';
 img-src 'self' https: data:;
