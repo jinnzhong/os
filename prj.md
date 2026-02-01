@@ -10,7 +10,7 @@ robots: noindex
 
 | # | code       | status | notes                             |
 |---| ---------- | ------ | -----                             |
-| 1 | prj: GHOST | V0     | FRMT/MECH good, needs THB/TYS/ARC |
+| 1 | prj: GHOST | tys    | Needs drafting                    |
 | 2 | prj: PETER | v1     | review SSC feedback, polish       |
 | 3 |            |        |                                   |
 
@@ -18,7 +18,6 @@ robots: noindex
 
 | # | code       | status | notes                             |
 |---| ---------- | ------ | -----                             |
-|   | prj: MUSIC | v2     | needs CMX, POV refinement         |
 |   | prj: WAITE | v1     | rewrite S1 to onramp, add tension |
 |   | prj: MINOS | v2     | possibly novel length, outline    |
 |   | prj: ROBOT | v2     | MECH good, but rewrite/re-outline |
@@ -36,3 +35,9 @@ robots: noindex
 | # | code       | status | notes                             |
 |---| ---------- | ------ | -----                             |
 | 1 | prj: SAVED | 9/14r  | 2 custom Rs, 7 form Rs            |
+
+## TRUNK / ÉTUDES
+
+| # | code       | status | notes                             |
+|---| ---------- | ------ | -----                             |
+|   | prj: MUSIC | v2     | too autobio in twee way           |
