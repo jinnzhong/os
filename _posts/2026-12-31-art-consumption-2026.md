@@ -44,7 +44,7 @@ robots: noindex
 |01/29|📃|Flowers that Bloom in the Spring (1971)|Julian Symons||
 |01/29|💬|Wonder Woman (2011) #2 "Home"|Brian Azzarello|Cliff Chiang|
 |01/29|💬|Wonder Woman (2011) #3 "Clay"|Brian Azzarello|Cliff Chiang|
-|01/29💬|Wonder Woman (2011) #4 "Blood"|Brian Azzarello|Cliff Chiang|
+|01/29|💬|Wonder Woman (2011) #4 "Blood"|Brian Azzarello|Cliff Chiang|
 |01/29|💬|Wonder Woman (2011) #5 "Lourdes"|Brian Azzarello|Troy Akins|
 |01/29|💬|Wonder Woman (2011) #6 "Thrones"|Brian Azzarello|Cliff Chiang|
 |01/𝜆|💿|SQ No.8 in Cm, Op. 110 (1960)|Dmitri Shostakovich|Éder Quartet (1994)|
