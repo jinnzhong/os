@@ -35,13 +35,28 @@ robots: noindex
 |01/22|💬|Eight Billion Genies (2022) #8|Charles Soule|Ryan Browne|
 |01/22|🎭|Moulin Rouge! The Musical (2018)|Jukebox Musical|John Logan|
 |01/24|🎧|Emperor: A New Life of Charles V (2019)|Geoffrey Parker|Nigel Patterson|
-
+|01/25|📃|A Measure of Martyrdom (2025)|Vivek Shanbhag tr. Srinath Penrur|Granta|
+|01/26|📰|Malayalam (2025)|J. Devika|Granta|
+|01/26|📰|I Am My Mother's Older Brother (2025)|Sujatha Gildla|Granta|
+|01/27|📃|The Couple Next Door (1954)|Margaret Miller|Ellery Queen|
+|01/27|📃|By the Scruff of the Soul (1963)|Dorthy Salisbury Davis|Ellery Queen|
+|01/27|💬|Wonder Woman (2011) #1 "The Visitation"|Brian Azzarello|Cliff Chiang|
+|01/29|📃|Flowers that Bloom in the Spring (1971)|Julian Symons||
+|01/29|💬|Wonder Woman (2011) #2 "Home"|Brian Azzarello|Cliff Chiang|
+|01/29|💬|Wonder Woman (2011) #3 "Clay"|Brian Azzarello|Cliff Chiang|
+|01/29💬|Wonder Woman (2011) #4 "Blood"|Brian Azzarello|Cliff Chiang|
+|01/29|💬|Wonder Woman (2011) #5 "Lourdes"|Brian Azzarello|Troy Akins|
+|01/29|💬|Wonder Woman (2011) #6 "Thrones"|Brian Azzarello|Cliff Chiang|
+|01/𝜆|💿|SQ No.8 in Cm, Op. 110 (1960)|Dmitri Shostakovich|Éder Quartet (1994)|
+|01/𝜆|💿|SQ No.1 in C, Op. 49 (1938)|Dmitri Shostakovich|Éder Quartet (1994)|
+|01/𝜆|💿|SQ No.9 in E♭, Op. 117 (1964)|Dmitri Shostakovich|Éder Quartet (1994)|
+|01/𝜆|💿|SQ No.14 in Dm, D.110 (1824)|Franz Schubert| Quartetto Italiano (1965)|
 
 ## Numbers
 
 |    |📖   |📃  |📜   |📰   |💬  |📑   |🎧   |📺  |📽️   |🎭   |💿   |🎸   |🏛️   |👺   |🎲  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|JAN |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
+|JAN |0    |9    |1    |3    |14   |0    |1    |5    |2    |1    |4    |0    |0    |0    |0    |
 |FEB |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
 |MAR |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
 |APR |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
