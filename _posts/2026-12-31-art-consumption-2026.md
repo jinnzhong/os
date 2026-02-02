@@ -50,7 +50,7 @@ robots: noindex
 |01/𝜆|💿|SQ No.8 in Cm, Op. 110 (1960)|Dmitri Shostakovich|Éder Quartet (1994)|
 |01/𝜆|💿|SQ No.1 in C, Op. 49 (1938)|Dmitri Shostakovich|Éder Quartet (1994)|
 |01/𝜆|💿|SQ No.9 in E♭, Op. 117 (1964)|Dmitri Shostakovich|Éder Quartet (1994)|
-|01/𝜆|💿|SQ No.14 in Dm, D.110 (1824)|Franz Schubert| Quartetto Italiano (1965)|
+|01/𝜆|💿|SQ No.14 in Dm, D.110 (1824)|Franz Schubert| Quartetto Italiano (1979)|
 
 ## Numbers
 
