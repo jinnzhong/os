@@ -52,6 +52,29 @@ robots: noindex
 |01/𝜆|💿|SQ No.9 in E♭, Op. 117 (1964)|Dmitri Shostakovich|Éder Quartet (1994)|
 |01/𝜆|💿|SQ No.14 in Dm, D.110 (1824)|Franz Schubert| Quartetto Italiano (1979)|
 
+
+## February 2026
+
+||||||
+|---|---|---|---|---|
+|02/01|📺|Prime Suspect (1991-2006) S1E1 "Price to Pay: Part 1"|Christopher Menaul|Lynda La Plante|
+|02/01|📺|Prime Suspect (1991-2006) S1E2 "Price to Pay: Part 2"|Christopher Menaul|Lynda La Plante|
+|02/01|📖|The Lion, the Witch and the Wardrobe (1950)|C.S. Lewis||
+|02/02|💬|Wonder Woman (2011) #7 "'ll Gangster Dell'Amore"|Brian Azzarello|Cliff Chiang|
+|02/03|💬|Wonder Woman (2011) #8 "Casting Shadows"|Brian Azzarello|Cliff Chiang|
+|02/03|💬|Wonder Woman (2011) #9 "The Dearly Beloved"|Brian Azzarello|Cliff Chiang|
+|02/03|💬|Wonder Woman (2011) #10 "Vows"|Brian Azzarello|Cliff Chiang|
+|02/03|💬|Wonder Woman (2011) #11 "Son Rise"|Brian Azzarello|Cliff Chiang|
+|02/03|📺|Transplant (2020-2024) S1E2 "Tell Me Who You Are"|Holly Dale|Joseph Kay|
+|02/04|📃|Roof (2026)|Elvia Wilk|Conjunction|
+|02/04|📃|Woodrow Wilson's Necktie (1972)|Patricia Highsmith|Slowly, Slowly in the Wind|
+|02/05|📺|Abbott Elementary (2021-) S5E13 "Candygrams"|Randall Einhorn|Chad Morton & Rebekka Pesqueira|
+|02/06|📺|High Potential (2024-) S2E11 "NPC"|Anu Valia|Eric I. Lu|
+|02/13|🏛️|Zobop (Colour-Chrome) (2026)|Jim Lambie|VAG|
+|02/13|🏛️|The Green Ideal: Emily Carr and the Idea of Nature (2026)|Emily Carr|VAG|
+|02/13|🏛️|Enemy Alien (2026)|Tamio Wakayama|VAG|
+|02/14|📖|Plotting and Writing Suspense Fiction (1983)|Patricia Highsmith|
+
 ## Numbers
 
 |    |📖   |📃  |📜   |📰   |💬  |📑   |🎧   |📺  |📽️   |🎭   |💿   |🎸   |🏛️   |👺   |🎲  |
