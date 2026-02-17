@@ -40,4 +40,4 @@ robots: noindex
 
 | # | code       | status | notes                             |
 |---| ---------- | ------ | -----                             |
-|   | prj: MUSIC | v2     | too autobio in twee way           |
+|   | prj: MUSIC | v2     | too twee in an autobio way        |
