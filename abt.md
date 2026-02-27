@@ -16,4 +16,4 @@ His mononym, JINN/Z, is pronounced _Jinn Zee_ when addressing an American audien
 
 ## TOOLS
 
-Jinn writes in longhand with Pelikan Souveräns, a M809 EF named _Orpheus_ and a M805 Stresemann Anthracite F named _Rentenmark_. Orpheus bleeds Iroshizuku fuyu-syogun. Rentenmark spills Diamine Earl Grey.
+Jinn writes in longhand with Pelikan Souverän M809 EF named _Orpheus_. Orpheus bleeds Iroshizuku fuyu-syogun.
