@@ -73,14 +73,24 @@ robots: noindex
 |02/13|🏛️|Zobop (Colour-Chrome) (2026)|Jim Lambie|VAG|
 |02/13|🏛️|The Green Ideal: Emily Carr and the Idea of Nature (2026)|Emily Carr|VAG|
 |02/13|🏛️|Enemy Alien (2026)|Tamio Wakayama|VAG|
-|02/14|📖|Plotting and Writing Suspense Fiction (1983)|Patricia Highsmith|
+|02/14|📰|Plotting and Writing Suspense Fiction (1983)|Patricia Highsmith|
+|02/18|📃|Feeders (2026)|Oliver Mundy|Electric Literature|
+|02/21|📖|The Count of Monte Cristo (1844)|Alexandre Dumas|
+|02/21|📃|Feeders (2026)|Oliver Mundy|Electric Literature|
+|02/22|📃|Loopy (1983)|Ruth Rendell|Ellery Queen|
+|02/25|📃|Always Sundays (2023)|Nathan Dragon|Byline|
+|02/26|📺|The Owl House (2020-2023) S2E3 "Echoes of the Past"|Bridget Underwood|Mikki Crisostomo|
+|02/27|📃|Lookout (2015)|Emily Luce|The Masters Review|
+|02/28|📺|Ghosts (2021) S5E11 "The Others"|Todd Biermann|Skander Halim|
+|02/𝜆|💿|SQ No.13 in Am, D.804 (1824)|Franz Schubert|Quartetto Italiano (1976)|
+|02/𝜆|💿|Sym. No.5 in Cm, Op.67 (1808)|Ludwig von Beethoven|Berliner Philharmoniker, Claudio Abbado (2001)|
 
 ## Numbers
 
 |    |📖   |📃  |📜   |📰   |💬  |📑   |🎧   |📺  |📽️   |🎭   |💿   |🎸   |🏛️   |👺   |🎲  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|--- |---  |---  |---  |---  |---  |---  |---  |---  |---  |---  |---  |---  |---  |---   |--- |
 |JAN |0    |9    |1    |3    |14   |0    |1    |5    |2    |1    |4    |0    |0    |0    |0    |
-|FEB |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
+|FEB |2    |8    |0    |1    |5    |0    |0    |7    |0    |0    |2    |0    |3    |0    |0    |
 |MAR |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
 |APR |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
 |MAY |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
