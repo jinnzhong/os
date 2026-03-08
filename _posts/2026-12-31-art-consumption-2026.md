@@ -85,6 +85,26 @@ robots: noindex
 |02/𝜆|💿|SQ No.13 in Am, D.804 (1824)|Franz Schubert|Quartetto Italiano (1976)|
 |02/𝜆|💿|Sym. No.5 in Cm, Op.67 (1808)|Ludwig von Beethoven|Berliner Philharmoniker, Claudio Abbado (2001)|
 
+
+## March 2026
+
+||||||
+|---|---|---|---|---|
+|03/03|📖|Solaris (1961)|Stanisław Lem||
+|03/05|📃|July 2015: A Compendium (2023)|Daniel Garcia|The Masters Review|
+|03/05|📃|In the Dissolving City (2025)|Audrey Stollings|New Edge|
+|03/05|📃|In Perfection's Shape I Writhe (2025)Samir Sirk Morató|New Edge|
+|03/05|📃|Staku's Hoard (2025)|Luana Saitta|New Edge|
+|03/05|📃|The Lament of a Shieldman (2025)|Timaeus Bloom|New Edge|
+|03/05|📃|The Maiden of the Serpent Moon (2025)|Premee Mohamed|New Edge|
+|03/05|📃|The Change (2025)|Bryn Hammond|New Edge|
+|03/05|📃|A Rogue Planet (2016)|Thomas Pierce|The Masters Review|
+|03/05|📃|Calculus BC: Final Exam (2015)|Abigail Hodge|The Masters Review|
+|03/06|🎸|Spacemoth|The Pearl||
+|03/06|🎸|Tortoise|The Pearl||
+|03/07|🎧|The Way We Never Were (1992)|Stephanie Coontz|Suzanne Toren|
+|03/08|📃|Great Aunt Allie's Flypaper (1979)|P.D. James|Verdict of Thirteen|
+
 ## Numbers
 
 |    |📖   |📃  |📜   |📰   |💬  |📑   |🎧   |📺  |📽️   |🎭   |💿   |🎸   |🏛️   |👺   |🎲  |
