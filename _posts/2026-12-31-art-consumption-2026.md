@@ -139,6 +139,7 @@ robots: noindex
 * 🎧 - audiobook: author/narrator
 * 📺 - tv episode: director/writer
 * 📽️ - film: director/writer
+* 🎤 - comedy: performer/location
 * 🎭 - musical: music & lyrics/book
 * 🎭 - play: playwright/director
 * 💿 - album: artist only
