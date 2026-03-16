@@ -93,7 +93,7 @@ robots: noindex
 |03/03|📖|Solaris (1961)|Stanisław Lem||
 |03/05|📃|July 2015: A Compendium (2023)|Daniel Garcia|The Masters Review|
 |03/05|📃|In the Dissolving City (2025)|Audrey Stollings|New Edge|
-|03/05|📃|In Perfection's Shape I Writhe (2025)Samir Sirk Morató|New Edge|
+|03/05|📃|In Perfection's Shape I Writhe (2025)|Samir Sirk Morató|New Edge|
 |03/05|📃|Staku's Hoard (2025)|Luana Saitta|New Edge|
 |03/05|📃|The Lament of a Shieldman (2025)|Timaeus Bloom|New Edge|
 |03/05|📃|The Maiden of the Serpent Moon (2025)|Premee Mohamed|New Edge|
