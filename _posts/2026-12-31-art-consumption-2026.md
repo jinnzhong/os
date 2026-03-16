@@ -104,6 +104,21 @@ robots: noindex
 |03/06|🎸|Tortoise|The Pearl||
 |03/07|🎧|The Way We Never Were (1992)|Stephanie Coontz|Suzanne Toren|
 |03/08|📃|Great Aunt Allie's Flypaper (1979)|P.D. James|Verdict of Thirteen|
+|03/08|📺|Community (2009-2015) S4E7 "Economics of Marine Biology"|Tricia Brock|Tim Saccardo|
+|03/08|📺|Community (2009-2015) S4E8 "Herstory of Dance"|Tristram Shapeero|Jack Kukoda|
+|03/08|📺|Community (2009-2015) S4E9 "Intro to Felt Surrogacy"|Tristram Shapeero|Gene Hong|
+|03/08|📃|First Lead Gasser (1993)|Tony Hillerman|Ellery Queen|
+|03/09|📃|Transformations (2025)|Umesh Solanki trans. Gopika Jadeja|Granta|
+|03/10|📃|Refresh, Refresh (2005)|Benjamin Percy|Paris Review|
+|03/11|📃|Chee's Witch (1986)|Tony Hillerman|New Black Mask|
+|03/11|📃|Breathe Deep (1985)|Donald Westlake|Playboy|
+|03/13|🎤|Prodigal Daughter (2026)|Taylor Tomlinson|Fountain Street Church|
+|03/13|📃|A Public Circumcision (2025)|Saharu Nusaia Kannanari|Granta|
+|03/14|📃|Gun Song (We Went to Iceland) (2025)|Kelly Luce|Fractured|
+|03/14|📃|The Ugliest Girl at Marcy’s Wedding Pavilion (2023)|Kelly Luce|Colorado Review|
+|03/14|📃|Kazhumaadan (2025)|Jeyamohan trans. Priyamvada Ramkumar|Granta|
+|03/15|📃|All at Once (2025)|Geetanjali Shree trans. Daisy Rockwell|Granta|
+|03/15|📃|Snake & Submarine (2022)|Shelby Kinney-Lang|ZYZZYVA|
 
 ## Numbers
 
