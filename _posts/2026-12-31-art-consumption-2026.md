@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Art Consumption 2026"
-date: 2026-12-31
+date: 2026-3-31
 categories: tracking
 robots: noindex
 ---
