@@ -119,25 +119,59 @@ robots: noindex
 |03/14|📃|Kazhumaadan (2025)|Jeyamohan trans. Priyamvada Ramkumar|Granta|
 |03/15|📃|All at Once (2025)|Geetanjali Shree trans. Daisy Rockwell|Granta|
 |03/15|📃|Snake & Submarine (2022)|Shelby Kinney-Lang|ZYZZYVA|
+|03/15|📃|Homa (2025)|Devika Rege|Granta|
+|03/16|📃|In the Shelter of Ghosts (2023|Risa Wolf|Diabolical Plots|
+|03/16|📃|Build Your Own Heart (2025)|Risa Wolf|Translunar Travelers Lounge|
+|03/18|📃|Train Dreams (2002)|Denis Johnson|Paris Review|
+|03/19|🎭|Les Misérables (1985)|Claude-Michel Schönberg & Herbert Kretzmer|Alain Boublil & Claude-Michel Schönberg|
+|03/23|📃|Crown Heights North (2024)|Rivka Galchen|New Yorker|
+|03/26|📃|Origin Lessons (2013)|Aimee Bender|Studio 360|
+|03/26|📃|Boxing Day (2015)|Rion Amilcar Scott|Catapult|
+|03/26|📃|Bruise (2014)|Stuart Dybek|Narrative|
+|03/26|📃|Some Hard, Hot Places(2021)|Kathy Fish|Ploughshares|
+|03/26|📃|Family (2009)|Jensen Beach|Necessary Fiction|
+|03/26|📃|A Notion I Took (2014)|Joy Castro|Drum|
+|03/26|📃|My X (2014)|Molly Giles|Smokelong Quarterly|
+|03/26|📃|A Sailor (2015)|Randa Jarrar|Narrative|
+|03/26|📃|Something Falls in the Night (2016)|Desiree Cooper|Know the Mother|
+|03/26|📃|Ms. Yamada's Toaster (2008)|Kelly Luce|Tampa Review|
+|03/27|📖|Beloved (1987)|Toni Morrison||
+|03/30|📃|Car Crash While Hitchhiking (1989)|Denis Johnson|Paris Review|
+|03/30|📃|The Blue Demon of Ikumi (2011)|Kelly Luce|Salamander|
+|03/30|📃|Reunion (2011)|Kelly Luce|Kenyon Review|
+|03/30|📃|Rooey (2010)|Kelly Luce|Literary Review|
+|03/30|📃|Pioneers (2009)||Kelly Luce|Kyoto Journal|
+|03/30|📃|Three Scenarios in Which Hana Sasaki Grows a Tail(2012)|Kelly Luce|Shenandoah|
+|03/31|📃|Two Men (1988)|Denis Johnson|New Yorker|
+|03/31|📃|Out on Bail ()|Denis Johnson|Epoch|
+|03/31|📃|Wisher (2009)|Kelly Luce|Southern Review|
+|03/31|📃|Cram Island ()|Kelly Luce|Kartika Review|
+
+|03/𝜆|💿|SQ No.15 in G, D.887 (1826)|Franz Schubert|Quartetto Italiano (1977)|
+
+## April 2026
+
+||||||
+|---|---|---|---|---|
 
 ## Numbers
 
-|    |📖   |📃  |📜   |📰   |💬  |📑   |🎧   |📺  |📽️   |🎭   |💿   |🎸   |🏛️   |👺   |🎲  |
-|--- |---  |---  |---  |---  |---  |---  |---  |---  |---  |---  |---  |---  |---  |---   |--- |
-|JAN |0    |9    |1    |3    |14   |0    |1    |5    |2    |1    |4    |0    |0    |0    |0    |
-|FEB |2    |8    |0    |1    |5    |0    |0    |7    |0    |0    |2    |0    |3    |0    |0    |
-|MAR |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
-|APR |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
-|MAY |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
-|JUN |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
-|JUL |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
-|AUG |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
-|SEP |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
-|OCT |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
-|NOV |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
-|DEC |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
-|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|
-|TTL |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |0    |
+|    |📖  |📃 |📜  |📰  |💬 |📑  |🎧  |📺 |📽️  |🎭  |💿  |🎸  |🎤  |🏛️  |👺  |🎲 |
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |---  |--- |--- |
+|JAN |0   |9   |1   |3   |14  |0   |1   |5   |2   |1   |4   |0   |0   |0   |0   |0   |
+|FEB |2   |8   |0   |1   |5   |0   |0   |7   |0   |0   |2   |0   |0   |3   |0   |0   |
+|MAR |2   |46  |0   |0   |0   |0   |1   |3   |0   |1   |1   |2   |1   |0   |0   |0   |
+|APR |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|MAY |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|JUN |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|JUL |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|AUG |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|SEP |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|OCT |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|NOV |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|DEC |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|
+|TTL |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 
 
 
