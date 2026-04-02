@@ -140,8 +140,8 @@ robots: noindex
 |03/30|📃|The Blue Demon of Ikumi (2011)|Kelly Luce|Salamander|
 |03/30|📃|Reunion (2011)|Kelly Luce|Kenyon Review|
 |03/30|📃|Rooey (2010)|Kelly Luce|Literary Review|
-|03/30|📃|Pioneers (2009)||Kelly Luce|Kyoto Journal|
-|03/30|📃|Three Scenarios in Which Hana Sasaki Grows a Tail(2012)|Kelly Luce|Shenandoah|
+|03/30|📃|Pioneers (2009)|Kelly Luce|Kyoto Journal|
+|03/30|📃|Three Scenarios in Which Hana Sasaki Grows a Tail (2012)|Kelly Luce|Shenandoah|
 |03/31|📃|Two Men (1988)|Denis Johnson|New Yorker|
 |03/31|📃|Out on Bail ()|Denis Johnson|Epoch|
 |03/31|📃|Wisher (2009)|Kelly Luce|Southern Review|
