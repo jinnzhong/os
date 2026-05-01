@@ -267,6 +267,7 @@ robots: noindex
 * 👺 - TTRPG: DM/players' initials
 * 🎲 - board game: designer / players score
 
+[^1]: Josh Friedman, Eric Pearson, Jeff Kaplan, and Ian Springer
 
 
 
