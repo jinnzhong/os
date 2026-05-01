@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Art Consumption 2026"
-date: 2026-3-31
+date: 2026-4-30
 categories: tracking
 robots: noindex
 ---
@@ -152,15 +152,85 @@ robots: noindex
 
 ||||||
 |---|---|---|---|---|
+|04/01|📃|Amorometer (2012)|Kelly Luce|Crazyhorse|
+|04/01|📃|Dundun (1989)|Denis Johnson|Esquire|
+|04/01|📃|Work (1988)|Denis Johnson|New Yorker|
+|04/02|📃|Emergency (1991)|Denis Johnson|New Yorker|
+|04/02|📃|Dirty Wedding (1990)|Denis Johnson|New Yorker|
+|04/02|📃|The Other Man (1990)|Denis Johnson|Big Wednesday|
+|04/03|📃|Happy Hour (1992)|Denis Johnson|Jesus' Son|
+|04/03|📃|Steady Hands in Seattle General (1992)|Denis Johnson|Esquire|
+|04/03|📽️|Fantastic Four (2025)|Matt Shakman|Various[^1]|
+|04/05|📃|Beverly Home (1992)|Denis Johnson|Paris Review|
+|04/06|📃|Rumpole and the Bubble Reputation (1988)|John Mortimer|Rumpole and the Age of Miracles|
+|04/06|📃|A Poison that Leaves No Trace (1990)|Sue Grafton|Sisters in Crime 2|
+|04/07|📃|Photo Finish (2000)|Sara Paretsky|Mary Higgins Clark Mystery|
+|04/07|📃|The Crime of Miss Oyster Brown (1991)|Peter Lovesey|Ellery Queen|
+|04/07|📃|Red Clay (1996)|Michael Malone|Murder for Love|
+|04/08|📃|Stop Hitting Yourself (2017)|Kelly Luce|The Sun|
+|04/08|📃|Barking at Butterflies (1999)|Ed McBain|Murder and Obsession|
+|04/09|📃|Seconds (2019)|Terese Svoboda|The Great American Desert|
+|04/09|📃|Exotics (2020)|Dantiel W. Moniz|O, the Oprah Magazine|
+|04/09|📃|How Many (2019)|Bryan Washington|New Yorker|
+|04/09|📃|Not Daniel (2021)|Deesha Philyaw|Cheat River Review|
+|04/09|📃|Beach Town (2005)|Amy Hempel|The Dog of the Marriage|
+|04/09|📃|When Chase Prays Chocolate (2023)|Christopher Allen|SmokeLong Quarterly|
+|04/09|📃|The Gospel of Guy No-Horse (2012)|Natalie Diaz|Black Renaissance|
+|04/09|📃|I'm on the Side of the Wildebeest (2018)|Amy Stuber|American Short Fiction|
+|04/09|📃|Jenny Watches _The Exorcist_ ()|Emma Stough||
+|04/09|📃|Sink Monkey (2023)|Alyssa Proujansky|Barrelhouse|
+|04/10|📃|Fictions (2026)|Anna Hogeland|Electric Literature|
+|04/10|📃|Running Out of Dog (1999)|Dennis Lehane|Murder and Obsession|
+|04/10|📃|Hostages (2002)|James Crumley|Measures of Poison|
+|04/11|📃|When the Women Come Out to Dance (2002)|Elmore Leonard|When the Women Come Out to Dance|
+|04/11|📺|Big Mistakes (2026) S1E2 “I Will Do Anything to Survive”|Dean Holland|Dan Levy & Jacqui Rivera|
+|04/11|📺|Big Mistakes (2026) S1E3 “Show Me The Money”|Adam Bernstein|Etan Frankel|
+|04/11|📺|Big Mistakes (2026) S1E4 “Weakness Always Exposes Itself”|Adam Bernstein|Erin Levy|
+|04/14|📖|A is for Alibi (1982)|Sue Grafton||
+|04/14|📃|The Hanged Man (2002)|Ian Rankin||
+|04/14|📺|Murder Drones (2021-2024) S1E1 "Pilot"|Liam Vickers|Liam Vickers|
+|04/14|📺|Murder Drones (2021-2024) S1E2 "Heartbeat"|Liam Vickers|Liam Vickers|
+|04/14|📃|The Holly and the Poison Ivy (2005)|Catherine Aird|A New Omnibus of Crime|
+|04/14|📺|Abbott Elementary (2021-) S5E19 "Trip"|Razan Ghalayini|Ava Coleman|
+|04/14|📺|Elspeth (2024-) S3E12 "All's Hair"|Mary Lou Belli|Erica Shelton Kodish & Wade Dooley|
+|04/14|📃|Copycat (2005)|Jeffery Deaver|A New Omnibus of Crime|
+|04/14|📃|He Loved to Go for Drives with His Father (2005)|Alexander McCall Smith|A New Omnibus of Crime|
+|04/16|📃|The Mother (2021)|Jacob M'hango|Disruption: New Short Fiction from Africa|
+|04/17|📺|Abbott Elementary (2021-)  S5E20 "Night Out"|Randall Einhorn|Kate Peterman|
+|04/17|📺|Ghosts (2021-) S5E14 "The Water Heater"|Katie Locke O'Brien|Liz Alexander|
+|04/19|📃|We Will Not Dream of Corals (2025)|Mário Coelho|Reckoning|
+|04/20|📺|Buffy the Vampire Slayer (1997-2003) S7E22 "Chosen"|Joss Whedon|Joss Whedon|
+|04/26|📺|Ghosts (2021-) S5E15 "Michael Jackson Goes to HR"|Utkarsh Ambudkar|Josh Malmuth|
+|04/26|📺|Ghosts (2021-) S5E16 "Woodstone Royale"|Cortney Carillo|Sophia Lear|
+|04/27|📃|Depth Charge (1997)|Craig Bernardini|Narrative Design|
+|04/27|📺|Buffy the Vampire Slayer (1997-2003) S4E16 "Who Are You?"|Joss Whedon|Joss Whedon|
+|04/28|📃|Daisy's Valentine (1982)|Mary Gaitskill|Bad Behavior|
+|04/28|📃|A Romantic Weekend (1982)|Mary Gaitskill|Bad Behavior|
+|04/28|📺|Brooklyn 99 (2013-2021) S1E16 "The Party"|Michael Engler|Gil Ozeri & Gabe Liedman|
+|04/28|📺|Brooklyn 99 (2013-2021) S1E17 "Full Boyle"|Craig Zisk|Norm Hiscock|
+|04/29|📃|Bride of the Lion (2025)|Melissa Burlock|New Edge|
+|04/29|📃|Something Nice (1982)|Mary Gaitskill|Bad Behavior|
+|04/29|📃|An Affair, Edited (1982)|Mary Gaitskill|Bad Behavior|
+|04/30|📃|Connection (1982)|Mary Gaitskill|Bad Behavior|
+|04/30|📃|Trying to Be (1982)|Mary Gaitskill|Bad Behavior|
+|04/𝜆|💿|Wild is the Wind (1966)|Nina Simone||
+|04/𝜆|💿|High Priestess of the Soul (1967)|Nina Simone||
+
+
+## May 2026
+
+||||||
+|---|---|---|---|---|
+
 
 ## Numbers
 
 |    |📖  |📃 |📜  |📰  |💬 |📑  |🎧  |📺 |📽️  |🎭  |💿  |🎸  |🎤  |🏛️  |👺  |🎲 |
-|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |---  |--- |--- |
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 |JAN |0   |9   |1   |3   |14  |0   |1   |5   |2   |1   |4   |0   |0   |0   |0   |0   |
 |FEB |2   |8   |0   |1   |5   |0   |0   |7   |0   |0   |2   |0   |0   |3   |0   |0   |
 |MAR |2   |46  |0   |0   |0   |0   |1   |3   |0   |1   |1   |2   |1   |0   |0   |0   |
-|APR |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|APR |1   |44  |0   |0   |0   |0   |0   |15  |1   |0   |2   |0   |0   |0   |0   |0   |
 |MAY |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |JUN |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |JUL |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
