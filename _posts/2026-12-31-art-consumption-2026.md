@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Art Consumption 2026"
-date: 2026-4-30
+date: 2026-5-31
 categories: tracking
 robots: noindex
 ---
@@ -221,6 +221,94 @@ robots: noindex
 
 ||||||
 |---|---|---|---|---|
+|05/02|📃|How to Find a Folded Bookstore (2018)|Devin Miller|Tales & Feathers|
+|05/03|🎭|La Bohème (1896)[^2]|Giacomo Puccini|Luigi Illica & Giuseppe Giacosa|
+|05/04|📖|Yellowface (2023)|R.F. Kuang||
+|05/05|📃|Secretary (1982)|Mary Gaitskill|Bad Behavior|
+|05/05|📺|Bob’s Burgers (2011-) S16E11 "The Keyboard Kid"|Ian Hamilton|Rich Rinaldi|
+|05/05|📺|Bob’s Burgers (2011-) S16E12 "Children of the Carn"|Chris Song|Katie Crown|
+|05/06|📃|Other Factors (1982)|Mary Gaitskill|Bad Behavior|
+|05/06|🎭|Chicago: Teen Edition (1975)[^3]|John Kander & Fred Ebb|Fred Ebb & Bob Fosse|
+|05/07|📃|Heaven (1982)|Mary Gaitskill|Bad Behavior|
+|05/09|📺|High Potential (2024-) S2E17 "Second Sunday"|Nancy Hower|Todd Harthan & Marc Halsey|
+|05/09|📰|How to Write an Autobiographical Novel (2018)|Alexander Chee||
+|05/12|💬|Crisis on Infinite Earths #1 (1985) "The Summoning|Marv Wolfman|George Pérez|
+|05/12|📖|White Teeth (2000)|Zadie Smith||
+|05/13|📖|The Buried Giant (2015)|Kazuo Ishiguro||
+|05/13|📺|Russian Doll (2019-2022) S1E1 "Nothing in This World Is Easy"|Leslye Headland|Leslye Headland|
+|05/13|📺|Russian Doll (2019-2022) S1E2 "The Great Escape"|Leslye Headland|Natasha Lyonne & Amy Poehler|
+|05/13|📺|Russian Doll (2019-2022) S1E3 "A Warm Body"|Leslye Headland|Allison Silverman|
+|05/13|📃|Daisy's Valentine (1982)|Mary Gaitskill|Bad Behavior|
+|05/13|📺|Ghosts (2021-) S5E19 "Gate-gate"|Jay Karas|Talia Bernstein|
+|05/13|📃|Romantic Weekend (1982)|Mary Gaitskill|Bad Behavior|
+|05/14|📃|Something Nice (1982)|Mary Gaitskill|Bad Behavior|
+|05/14|📺|Russian Doll (2019-2022) S1E4 "Alan's Routine"|Jamie Babbit|Cirocco Dunlap & Leslye Headland|
+|05/14|📺|Russian Doll (2019-2022) S1E5 "Superiority Complex"|Jamie Babbit|Jocelyn Bioh|
+|05/14|📺|Russian Doll (2019-2022) S1E6 "Reflection"|Jamie Babbit|Flora Birnbaum|
+|05/14|📺|Russian Doll (2019-2022) S1E7 "The Way Out"|Leslye Headland|Alison Silverman & Leslye Headland|
+|05/14|📺|Russian Doll (2019-2022) S1E8 "Ariadne"|Natasha Lyonne|Natasha Lyonne|
+|05/14|📺|Widow's Bay (2026) S1E4 "Beach Reads"|Sam Donovan|Mackenzie Dohr|
+|05/15|📃|Ghosts and Empties (2015)|Lauren Groff|New Yorker|
+|05/15|📃|A Wife of Nashville (1949)|Peter Taylor|New Yorker|
+|05/15|📃|Antediluvian (2026)|Rem Wigmore|Reckoning|
+|05/16|💬|Feeding Ghosts (2024)|Tessa Hulls|Tessa Hulls|
+|05/17|📽️|Sinners (2025)|Ryan Coogler|Ryan Coogler|
+|05/17|📺|Russian Doll (2019-2022) S2E1 "Nowhen"|Natasha Lyonne|Natasha Lyonne|
+|05/17|📺|Russian Doll (2019-2022) S2E2 "Coney Island Baby"|Alex Buono|Allison Silverman & Zakiyyah Alexander|
+|05/17|📺|Russian Doll (2019-2022) S2E3 "Brain Drain"|Natasha Lyonne|Natasha Lyonne & Alice Ju|
+|05/17|📖|Bridge to Terabithia (1977)|Katherine Paterson||
+|05/18|📃|An Affair, Edited (1982)|Mary Gaitskill|Bad Behavior|
+|05/18|📃|Connection (1982)|Mary Gaitskill|Bad Behavior|
+|05/19|💬|The One Hand (2024) #1|Ram V.|Laurence Campbell|
+|05/19|💬|The Six Fingers (2024) "P1: In the Gaps"|Dan Watters|Sumit Kumar|
+|05/19|💬|The One Hand (2024) #2 "Can't Get Out"|Ram V.|Laurence Campbell|
+|05/19|💬|The Six Fingers (2024) "P2: There is No Chaos"|Dan Watters|Sumit Kumar|
+|05/19|💬|The One Hand (2024) #3 "Alien Territory"|Ram V.|Laurence Campbell|
+|05/19|💬|The Six Fingers (2024) "P3: Rosetta Stone"|Dan Watters|Sumit Kumar|
+|05/19|💬|The One Hand (2024) #4 "Still Just a Gun"|Ram V.|Laurence Campbell|
+|05/19|💬|The Six Fingers (2024) "P4:Override|Dan Watters|Sumit Kumar|
+|05/19|💬|The One Hand (2024) #5 "The Trouble with Airplanes"|Ram V.|Laurence Campbell|
+|05/19|💬|The Six Fingers (2024) "P5: Purpose"|Dan Watters|Sumit Kumar|
+|05/20|📃|Unsettled Nature (2026)|Jordan Kurella|Apex|
+|05/21|📃|The Piano Player Has Eight Arms (2025)|Íde Hennessy|Reckoning|
+|05/21|📃|Ascension (2026)|P.L McMillan|Apex|
+|05/21|📃|Trying to Be (1982)|Mary Gaitskill|Bad Behavior|
+|05/21|📃|Lorelei and Athens (2026)|Zans Brady Krohn|Paris Review|
+|05/21|📃|The House with the Mezzanine (2026|Dan Bevacqua|Paris Review|
+|05/21|📃|GemStone (2026)|Tao Lin|Paris Review|
+|05/21|📃|The Welder (2026)|Ingeborg Bachmann[^4]|Paris Review|
+|05/22|📃|The Over-Sea (2026)|Jamie McGhee|Reckoning|
+|05/23|📃|Whatever Creek Meadows (2026)|Benjamin Kunkel|Granta|
+|05/23|📃|Mozart Balls (2026)|Camilla Grudova|Granta|
+|05/23|📃|Madame Gandi (2026)|Anne Serre|Granta|
+|05/23|📺|Community (2009-2015) S5E4 "Cooperative Polygraphy"|Tristram Shapeero|Alex Rubens|
+|05/23|📃|Her Enemy's Phrase (2026)|Missouri Williams|Granta|
+|05/23|📺|Community (2009-2015) S5E8 "App Development and Condiments"|Rob Schrab|Jordan Blum & Parker Deay|
+|05/25|📃|The Island of Sea Turtles and Blood (2026)|Angela Liu|Apex|
+|05/25|📃|Secretary (1982)|Mary Gaitskill|Bad Behavior|
+|05/25|📃|Jirel Meets Death (2025)|Molly Tanzer|New Edge|
+|05/26|💬|Superman: The Man of Steel (1991) #18 "Doomsday! P1"|Louise Jones Simonson|Jon Bogdanove|
+|05/26|💬|Justice League America (1989) #69 "Doomsday! P2: Down for the Count"|Dan Jurgens|Dan Jurgens|
+|05/26|💬|Superman (1986) #74 "Doomsday! P3: Countdown to Doomsday!"|Dan Jurgens|Dan Jurgens|
+|05/26|💬|The Adventures of Superman (1987) #497 "Doomsday! P4: Under Fire"|Jerry Ordway|Tom Grummett|
+|05/26|💬|Action Comics (1938) #684 "Doomsday! P4:... Doomsday Is Near!"|Roger Stern|Butch Guice|
+|05/26|💬|Superman: The Man of Steel (1991) #19 "Doomsday! P5: Doomsday Is Here!"|Louise Jones Simonson|Jon Bogdanove|
+|05/26|💬|Superman (1986) #75 "Doomsday! P7: Doomsday!"|Dan Jurgens|Dan Jurgens|
+|05/26|📃|Other Factors (1982)|Mary Gaitskill|Bad Behavior|
+|05/28|📃|Mothers (2014)|Carmen Maria Machado|Interfictions|
+|05/28|🎭|Mamma Mia (1999)|Benny Andersson & Björn Ulvaeus|Catherine Johnson|
+|05/29|📃|Sleeper Bus (2026)|Yu Hua tr. Todd Foley|Paris Review|
+|05/29|📃|Curtis (2026)|Patrick Cottrell|Paris Review|
+|05/29|📃|Inventory (2013)|Carmen Maria Machado|Strange Horizons|
+|05/30|📃|The Merchant and the Alchemist's Gate (2007)|Ted Chiang|Subterranean Press|
+|05/31|📃|Exhalation (2008)|Ted Chiang|Eclipse Two|
+|05/31|📃|What's Expected of Us (2005)|Ted Chiang|Nature|
+|05/𝜆|💿|SQ No.1 in F, Op.18 (1801)|Ludwig van Beethoven|Lindsays Quartet (1979)|
+
+## June 2026
+
+||||||
+|---|---|---|---|---|
 
 
 ## Numbers
@@ -231,7 +319,7 @@ robots: noindex
 |FEB |2   |8   |0   |1   |5   |0   |0   |7   |0   |0   |2   |0   |0   |3   |0   |0   |
 |MAR |2   |46  |0   |0   |0   |0   |1   |3   |0   |1   |1   |2   |1   |0   |0   |0   |
 |APR |1   |44  |0   |0   |0   |0   |0   |15  |1   |0   |2   |0   |0   |0   |0   |0   |
-|MAY |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|MAY |4   |36  |0   |1   |19  |0   |0   |18  |1   |3   |1   |0   |0   |0   |0   |0   |
 |JUN |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |JUL |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |AUG |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
@@ -268,7 +356,9 @@ robots: noindex
 * 🎲 - board game: designer / players score
 
 [^1]: Josh Friedman, Eric Pearson, Jeff Kaplan, and Ian Springer
-
+[^2]: Queen Elizabeth Theatre - Conducted by Jonathan Darlington, Directed by Brenna Corner
+[^3]: High School Production w/Middle One on Percussion
+[^4]: tr. Philip Boehm & Tess Lewis
 
 
 ---
