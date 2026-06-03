@@ -204,15 +204,15 @@ robots: noindex
 |04/26|📺|Ghosts (2021-) S5E16 "Woodstone Royale"|Cortney Carillo|Sophia Lear|
 |04/27|📃|Depth Charge (1997)|Craig Bernardini|Narrative Design|
 |04/27|📺|Buffy the Vampire Slayer (1997-2003) S4E16 "Who Are You?"|Joss Whedon|Joss Whedon|
-|04/28|📃|Daisy's Valentine (1982)|Mary Gaitskill|Bad Behavior|
-|04/28|📃|A Romantic Weekend (1982)|Mary Gaitskill|Bad Behavior|
+|04/28|📃|Daisy's Valentine (1988)|Mary Gaitskill|Bad Behavior|
+|04/28|📃|A Romantic Weekend (1988)|Mary Gaitskill|Bad Behavior|
 |04/28|📺|Brooklyn 99 (2013-2021) S1E16 "The Party"|Michael Engler|Gil Ozeri & Gabe Liedman|
 |04/28|📺|Brooklyn 99 (2013-2021) S1E17 "Full Boyle"|Craig Zisk|Norm Hiscock|
 |04/29|📃|Bride of the Lion (2025)|Melissa Burlock|New Edge|
-|04/29|📃|Something Nice (1982)|Mary Gaitskill|Bad Behavior|
-|04/29|📃|An Affair, Edited (1982)|Mary Gaitskill|Bad Behavior|
-|04/30|📃|Connection (1982)|Mary Gaitskill|Bad Behavior|
-|04/30|📃|Trying to Be (1982)|Mary Gaitskill|Bad Behavior|
+|04/29|📃|Something Nice (1988)|Mary Gaitskill|Bad Behavior|
+|04/29|📃|An Affair, Edited (1988)|Mary Gaitskill|Bad Behavior|
+|04/30|📃|Connection (1988)|Mary Gaitskill|Bad Behavior|
+|04/30|📃|Trying to Be (1988)|Mary Gaitskill|Bad Behavior|
 |04/𝜆|💿|Wild is the Wind (1966)|Nina Simone||
 |04/𝜆|💿|High Priestess of the Soul (1967)|Nina Simone||
 
@@ -224,12 +224,12 @@ robots: noindex
 |05/02|📃|How to Find a Folded Bookstore (2018)|Devin Miller|Tales & Feathers|
 |05/03|🎭|La Bohème (1896)[^2]|Giacomo Puccini|Luigi Illica & Giuseppe Giacosa|
 |05/04|📖|Yellowface (2023)|R.F. Kuang||
-|05/05|📃|Secretary (1982)|Mary Gaitskill|Bad Behavior|
+|05/05|📃|Secretary (1988)|Mary Gaitskill|Bad Behavior|
 |05/05|📺|Bob’s Burgers (2011-) S16E11 "The Keyboard Kid"|Ian Hamilton|Rich Rinaldi|
 |05/05|📺|Bob’s Burgers (2011-) S16E12 "Children of the Carn"|Chris Song|Katie Crown|
-|05/06|📃|Other Factors (1982)|Mary Gaitskill|Bad Behavior|
+|05/06|📃|Other Factors (1988)|Mary Gaitskill|Bad Behavior|
 |05/06|🎭|Chicago: Teen Edition (1975)[^3]|John Kander & Fred Ebb|Fred Ebb & Bob Fosse|
-|05/07|📃|Heaven (1982)|Mary Gaitskill|Bad Behavior|
+|05/07|📃|Heaven (1988)|Mary Gaitskill|Bad Behavior|
 |05/09|📺|High Potential (2024-) S2E17 "Second Sunday"|Nancy Hower|Todd Harthan & Marc Halsey|
 |05/09|📰|How to Write an Autobiographical Novel (2018)|Alexander Chee||
 |05/12|💬|Crisis on Infinite Earths #1 (1985) "The Summoning|Marv Wolfman|George Pérez|
@@ -238,10 +238,10 @@ robots: noindex
 |05/13|📺|Russian Doll (2019-2022) S1E1 "Nothing in This World Is Easy"|Leslye Headland|Leslye Headland|
 |05/13|📺|Russian Doll (2019-2022) S1E2 "The Great Escape"|Leslye Headland|Natasha Lyonne & Amy Poehler|
 |05/13|📺|Russian Doll (2019-2022) S1E3 "A Warm Body"|Leslye Headland|Allison Silverman|
-|05/13|📃|Daisy's Valentine (1982)|Mary Gaitskill|Bad Behavior|
+|05/13|📃|Daisy's Valentine (1988)|Mary Gaitskill|Bad Behavior|
 |05/13|📺|Ghosts (2021-) S5E19 "Gate-gate"|Jay Karas|Talia Bernstein|
-|05/13|📃|Romantic Weekend (1982)|Mary Gaitskill|Bad Behavior|
-|05/14|📃|Something Nice (1982)|Mary Gaitskill|Bad Behavior|
+|05/13|📃|Romantic Weekend (1988)|Mary Gaitskill|Bad Behavior|
+|05/14|📃|Something Nice (1988)|Mary Gaitskill|Bad Behavior|
 |05/14|📺|Russian Doll (2019-2022) S1E4 "Alan's Routine"|Jamie Babbit|Cirocco Dunlap & Leslye Headland|
 |05/14|📺|Russian Doll (2019-2022) S1E5 "Superiority Complex"|Jamie Babbit|Jocelyn Bioh|
 |05/14|📺|Russian Doll (2019-2022) S1E6 "Reflection"|Jamie Babbit|Flora Birnbaum|
@@ -257,8 +257,8 @@ robots: noindex
 |05/17|📺|Russian Doll (2019-2022) S2E2 "Coney Island Baby"|Alex Buono|Allison Silverman & Zakiyyah Alexander|
 |05/17|📺|Russian Doll (2019-2022) S2E3 "Brain Drain"|Natasha Lyonne|Natasha Lyonne & Alice Ju|
 |05/17|📖|Bridge to Terabithia (1977)|Katherine Paterson||
-|05/18|📃|An Affair, Edited (1982)|Mary Gaitskill|Bad Behavior|
-|05/18|📃|Connection (1982)|Mary Gaitskill|Bad Behavior|
+|05/18|📃|An Affair, Edited (1988)|Mary Gaitskill|Bad Behavior|
+|05/18|📃|Connection (1988)|Mary Gaitskill|Bad Behavior|
 |05/19|💬|The One Hand (2024) #1|Ram V.|Laurence Campbell|
 |05/19|💬|The Six Fingers (2024) "P1: In the Gaps"|Dan Watters|Sumit Kumar|
 |05/19|💬|The One Hand (2024) #2 "Can't Get Out"|Ram V.|Laurence Campbell|
@@ -272,7 +272,7 @@ robots: noindex
 |05/20|📃|Unsettled Nature (2026)|Jordan Kurella|Apex|
 |05/21|📃|The Piano Player Has Eight Arms (2025)|Íde Hennessy|Reckoning|
 |05/21|📃|Ascension (2026)|P.L McMillan|Apex|
-|05/21|📃|Trying to Be (1982)|Mary Gaitskill|Bad Behavior|
+|05/21|📃|Trying to Be (1988)|Mary Gaitskill|Bad Behavior|
 |05/21|📃|Lorelei and Athens (2026)|Zans Brady Krohn|Paris Review|
 |05/21|📃|The House with the Mezzanine (2026|Dan Bevacqua|Paris Review|
 |05/21|📃|GemStone (2026)|Tao Lin|Paris Review|
@@ -285,7 +285,7 @@ robots: noindex
 |05/23|📃|Her Enemy's Phrase (2026)|Missouri Williams|Granta|
 |05/23|📺|Community (2009-2015) S5E8 "App Development and Condiments"|Rob Schrab|Jordan Blum & Parker Deay|
 |05/25|📃|The Island of Sea Turtles and Blood (2026)|Angela Liu|Apex|
-|05/25|📃|Secretary (1982)|Mary Gaitskill|Bad Behavior|
+|05/25|📃|Secretary (1988)|Mary Gaitskill|Bad Behavior|
 |05/25|📃|Jirel Meets Death (2025)|Molly Tanzer|New Edge|
 |05/26|💬|Superman: The Man of Steel (1991) #18 "Doomsday! P1"|Louise Jones Simonson|Jon Bogdanove|
 |05/26|💬|Justice League America (1989) #69 "Doomsday! P2: Down for the Count"|Dan Jurgens|Dan Jurgens|
@@ -294,7 +294,7 @@ robots: noindex
 |05/26|💬|Action Comics (1938) #684 "Doomsday! P4:... Doomsday Is Near!"|Roger Stern|Butch Guice|
 |05/26|💬|Superman: The Man of Steel (1991) #19 "Doomsday! P5: Doomsday Is Here!"|Louise Jones Simonson|Jon Bogdanove|
 |05/26|💬|Superman (1986) #75 "Doomsday! P7: Doomsday!"|Dan Jurgens|Dan Jurgens|
-|05/26|📃|Other Factors (1982)|Mary Gaitskill|Bad Behavior|
+|05/26|📃|Other Factors (1988)|Mary Gaitskill|Bad Behavior|
 |05/28|📃|Mothers (2014)|Carmen Maria Machado|Interfictions|
 |05/28|🎭|Mamma Mia (1999)|Benny Andersson & Björn Ulvaeus|Catherine Johnson|
 |05/29|📃|Sleeper Bus (2026)|Yu Hua tr. Todd Foley|Paris Review|
