@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Art Consumption 2026"
-date: 2026-5-31
+date: 2026-6-30
 categories: tracking
 robots: noindex
 ---
@@ -309,7 +309,50 @@ robots: noindex
 
 ||||||
 |---|---|---|---|---|
+|06/01|📃|The Orangery (2016)|Bonnie Jo Stufflebeam|Beneath Ceaseless Skies|
+|06/01|📃|Facades (2026)|David Szalay|Paris Review|
+|06/02|📃|Magical Girl Eater (2026)|Angela Liu|Uncanny|
+|06/02|📺|Rick & Morty (2013-) S8E10 "Hot Rick"|Brian Kaufman|Albro Lundy & James Siciliano|
+|06/03|📃|The Bathhouse for Long Life (2026)|Claire Jia-Wen|Apex|
+|06/03|📃|Heaven (1988)|Mary Gaitskill|Bad Behavior|
+|06/03|📃|Glass (2026)|Beth Dawkins|Apex|
+|06/03|📃|Especially Heinous (2013)|Carmen Maria Machado|The American Reader|Albro Lundy|
+|06/03|📺|Rick & Morty (2013-) S9E1 "There's Something About Morty"|Douglas Einar Olsen|
+|06/04|📃|Real Women Have Bodies (2017)|Carmen Maria Machado|Her Body and Other Parties|
+|06/04|📃|The Touch (2017)|Kimberly King Parsons|Cosmonauts Avenue|
+|06/05|📃|The Lifecycle of Software Objects (2010)|Ted Chiang||
+|06/05|📃|Dacey's Patent Automatic Nanny (2011)|Ted Chiang|The Thackery T. Lambshead Cabinet of Curiosities|
+|06/06|📃|Eight Bites (2017)|Carmen Maria Machado|Gulf Coast|
+|06/07|📃|The Resident (2017)|Carmen Maria Machado|Her Body and Other Parties|
+|06/08|📃|Difficult at Parties (2012)|Carmen Maria Machado|Unstuck|
+|06/08|📃|The Truth of Fact, the Truth of Feeling (2013)|Ted Chiang|Subterranean Online|
+|06/09|📃|Hear the Long Train Moan (1997)|Percival Everett|Narrative Design|
+|06/12|📃|The Eternal Hourglass (2026)|Kevin J. Binder|Reckoning|
+|06/12|📃|Love in the Time of Te Rāhuinui (2026)|Hiria Dunning|Reckoning|
+|06/12|📃|The Mouthful (2026)|Hank LaRose|Reckoning|
+|06/13|📃|Dr. _____ and His Thousand Children  (2026)|J.R. Staples-Ager|Reckoning|
+|06/14|📰|These Precious Days (2021)|Ann Patchett||
+|06/17|📃|The Great Silence (2015)|Ted Chiang|e-flux|
+|06/17|📃|Tonight, We Roll (2026)|Stephen Graham Jones|Conjunctions|
+|06/19|📃|Omphalos (2019)|Ted Chiang|Exhalation|
+|06/21|📽️|The Faculty (1998)|Robert Rodriguez|Kevin Williamson|
+|06/21|📃|The Repossession of Kevin's Perfect Hair (2024)|Lillian Boyd|Embodied Exegesis|
+|06/21|📃|Berlin (2026)|Clare Needham|Sewanee Review|
+|06/21|📃|Bespoke (2024)|Elly Bangs|Embodied Exegesis|
+|06/22|📃|Anxiety Is the Dizziness of Freedom (2019)|Ted Chiang|Exhalation|
+|06/25|📖|Gilead (2004)|Marilynn Robinson||
+|06/27|📰|Dairy (2026)|Kelan Nee|Sewanee Review|
+|06/27|📃|Accurate Witness (2026)|Nell Fredenberger|Sewanee Review|
+|06/28|📃|Kelvinator (2026)|Kasey Peters|Sewanee Review|
+|06/28|🎧|How Fiction Works (2008)|James Woods|James Adams|
+|06/30|📃|Niagara Falls (2026)|Connor White|Sewanee Review|
+|06/30|📰|Dairy (2026)|Kelan Nee|Sewanee Review|
+|06/30|📃|Mothers and Daughters in This Day and Age (2026)|Jack Moore|One Story|
 
+## July 2026
+
+||||||
+|---|---|---|---|---|
 
 ## Numbers
 
@@ -320,7 +363,7 @@ robots: noindex
 |MAR |2   |46  |0   |0   |0   |0   |1   |3   |0   |1   |1   |2   |1   |0   |0   |0   |
 |APR |1   |44  |0   |0   |0   |0   |0   |15  |1   |0   |2   |0   |0   |0   |0   |0   |
 |MAY |4   |36  |0   |1   |19  |0   |0   |18  |1   |3   |1   |0   |0   |0   |0   |0   |
-|JUN |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|JUN |1   |31  |0   |3   |0   |0   |1   |2   |1   |0   |0   |0   |0   |0   |0   |0   |
 |JUL |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |AUG |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |SEP |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
