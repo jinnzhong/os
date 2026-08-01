@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Art Consumption 2026"
-date: 2026-6-30
+date: 2026-7-31
 categories: tracking
 robots: noindex
 ---
@@ -353,6 +353,75 @@ robots: noindex
 
 ||||||
 |---|---|---|---|---|
+|07/01|📃|The High Priestess (2026)|Olga Ravn tr. Martin Aitken|Granta|
+|07/01|📃|Six Stories (2026)|Helle Helle tr. Martin Aitken|Granta|
+|07/01|📃|College Town, 1980 (2007)|Mary Gaitskill|Vice|
+|07/01|📽️|Project Hail Mary (2026)|Phil Lord & Chris Miller|Drew Goddard|
+|07/01|📃|Ioseb (2026)|Pirkko Saisio tr. Aleksi Kopenen|Granta|
+|07/01|📃|Vaim Hotel (2026)|Jon Fosse tr. Damion Searls|Granta|
+|07/01|📃|The Aviary (2026)|Solvej Balle, tr. Sophia Hersi Smith & Jennifer Russell|Granta|
+|07/03|📺|The Disastrous Life of Saiki K. (2016) S1E1|J.C. Staff||
+|07/03|📺|The Disastrous Life of Saiki K. (2016) S1E2|J.C. Staff||
+|07/03|📺|The Disastrous Life of Saiki K. (2016) S1E3|J.C. Staff||
+|07/04|📺|The Bear (2022) S3E6 "Napkins"|Ayo Edebiri|Catherine Schetina|
+|07/05|📽️|Toy Story 5 (2026)|Andrew Stanton|Andrew Stanton & Kenna Harris|
+|07/06|📺|The Bear (2022-2026) S4E1 "Groundhogs"|Christopher Storer|Christopher Storer|
+|07/06|📺|The Bear (2022-2026) S4E2 "Soubise"|Christopher Storer & Duccio Fabbri|Catherine Schetina|
+|07/07|📺|The Bear (2022-2026) S4E3 "Scallop"|Christopher Storer|Rene Gube|
+|07/07|📺|The Bear (2022-2026) S4E4 "Worms"|Janicza Bravo|Ayo Edebiri & Lionel Boyce|
+|07/08|📺|The Bear (2022-2026) S5E1 "Soda"|Christopher Storer|Christopher Storer|
+|07/09|📃|After the Party (2015)|Karl Ove Knausgaard|New Yorker|
+|07/10|📃|Backwoods Fable (2026)|Sigbøgn Skåden tr. Olivia Lasky|Granta|
+|07/10|📃|Blow Up the Factory (2026)|Malte Tellerup tr. Denise Rose Hansen|Granta|
+|07/10|📃|The Good Person of Sandvika (2026)|Vigdis Hjorth tr. Charlotte Barslund|Granta|
+|07/10|📃|Furthermore, I Consider That Carthage Must Be Destroyed (2026)|Kyrre Andreassen tr. Lucy Moffatt|Granta|
+|07/10|📃|The Forest Kindergartners (2026)|Jonas Eika tr. Sherilyn Hellberg|
+|07/10|📃|Speciman Days (2014)|Ben Lerner|Paris Review|
+|07/11|📺|Wonder Man (2026) S1E1 "Matinee"|Destin Daniel Cretton|Andrew Guest|
+|07/11|📺|Wonder Man (2026) S1E2 "Self-Tape"|Destin Daniel Cretton|Andrew Guest|
+|07/12|📰|The Swerve (2011)|Stephen Greenblatt||
+|07/12|📃|Hospital (2022)|Tao Lin|Forever|
+|07/13|📺|Murder Drones (2021-2024) S1E3 "The Promening"|Liam Vickers|Liam Vickers|
+|07/14|📃|One Hundred Years of Forgiveness (2011)|Clarice Lispector tr. Rachel Klein|Paris Review|
+|07/15|📃|Warnings from the Future (2015)|Ethan Chatagnier|Michighan Quarterly|
+|07/16|📃|Charlie's Leitmotif (2020)|Ethan Chatagnier|Story|
+|07/17|📺|Good Omens (2019-2026) S3E1 "The Finale"|Rachel Talalay|Various[^5]|
+|07/17|📃|The Weird Wrong Drawers (2026)|Maggie Mull|AGNI|
+|07/18|📃|God's Arrow (2026)|Shuang Xuetao tr. Jeremy Tiang|Paris Review|
+|07/18|📃|MT (2026)|Lucy Ellman|Paris Review|
+|07/18|📽️|One Battle After Another (2025)|P.T. Anderson|P.T. Anderson|
+|07/18|📺|Young Sherlock (2026) S1E1 "The Case of the Missing Scrolls"|Guy Ritchie|Matthew Parkhill and Peter Harness|
+|07/18|📺|Young Sherlock (2026) S1E2 "The Case of the Burnt Photograph"|Guy Ritchie|Steve Thompson|
+|07/18|📺|Young Sherlock (2026) S1E3 "The Case of the Unarmed Man"|Anders Engström|Melissa Bubnic|
+|07/19|📃|The Cascades (2026)|Daniel Saldaña Paris tr. Cristóbal Riego|Paris Review|
+|07/19|📃|Lil Spooky (2026)|Chad Fore|Paris Review|
+|07/19|📺|The Bear (2022-2026) S5E5 "Raspberries"|Duccio Fabbri|Rachel Wiggins|
+|07/19|📃|Two Lives (2026)|Daisy Hildyard|Paris Review|
+|07/20|📺|The Bear (2022-2026) S5E6 "Focaccia"|Christopher Storer|Rene Gube|
+|07/20|📺|The Bear (2022-2026) S5E7 "Caramel"|Christopher Storer|Christopher Storer & Nicole Kohut|
+|07/22|📺|Young Sherlock (2026) S1E4 "The Case of the Missing Button"|Anders Engström|Steve Thompson|
+|07/22|📺|Young Sherlock (2026) S1E5 "The Case of Young Sherlock Holmes"|Anders Engström|Matthew Parkhill|
+|07/23|📖|Ministry for the Future (2020)|Kim Stanley Robinson||
+|07/23|📰|Factfulness (2018)|Hans Rosling et al||
+|07/23|🎧|Unmasking Autism (2022)|Devon Price|Devon Price|
+|07/23|📺|The Bear (2022-2026) S5E8 "The Original Beef of Chicagoland"|Christopher Storer|Christopher Storer|
+|07/25|📖|Goodbye, Vitamin (2017)|Rachel Khong||
+|07/26|📺|Young Sherlock (2026) S1E6 "The Case of the Killing Jar"|Dennie Gordon|Matthew Parkhill|
+|07/26|📺|Young Sherlock (2026) S1E7 "The Case of the Two Corners"|Tricia Brock|Melissa Bubnic|
+|07/26|📺|Young Sherlock (2026) S1E8 "The Case of Beatrice Holmes"|Tricia Brock|Matthew Parkhill|
+|07/26|🎸|Billie Allen + The Pollies|Freedom Mobile Arch||
+|07/26|🎸|Alabama Shakes|Freedom Mobile Arch||
+|07/29|📃|books and roses (2016)|Helen Oyeyemi|What is Not Yours is Not Yours|
+|07/30|🎭|Clue: On Stage (2017)|Sandy Rustin||
+|07/31|📰|The Lonely City (2016)|Olivia Laing||
+|07/31|📃|The Intoxicated (1949)|Shirley Jackson|The Lottery and Other Stories|
+|07/31|📃|The Daemon Lover (1949)|Shirley Jackson|The Lottery and Other Stories|
+
+
+## August 2026
+
+||||||
+|---|---|---|---|---|
 
 ## Numbers
 
@@ -364,7 +433,7 @@ robots: noindex
 |APR |1   |44  |0   |0   |0   |0   |0   |15  |1   |0   |2   |0   |0   |0   |0   |0   |
 |MAY |4   |36  |0   |1   |19  |0   |0   |18  |1   |3   |1   |0   |0   |0   |0   |0   |
 |JUN |1   |31  |0   |3   |0   |0   |1   |2   |1   |0   |0   |0   |0   |0   |0   |0   |
-|JUL |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|JUL |2   |26  |0   |3   |0   |0   |1   |25  |3   |1   |0   |2   |0   |0   |0   |0   |
 |AUG |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |SEP |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |OCT |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
