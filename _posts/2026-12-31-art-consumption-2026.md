@@ -467,13 +467,16 @@ robots: noindex
 * 👺 - TTRPG: DM/players' initials
 * 🎲 - board game: designer / players score
 
+
+---
 [^1]: Josh Friedman, Eric Pearson, Jeff Kaplan, and Ian Springer
 [^2]: Queen Elizabeth Theatre - Conducted by Jonathan Darlington, Directed by Brenna Corner
 [^3]: High School Production w/Middle One on Percussion
 [^4]: tr. Philip Boehm & Tess Lewis
 [^5]: Neil Gaiman, Michael Marshall Smith, and Peter Atkins
-
----
+[^6]: Alisha Brophy, Scott Miles, and Shion Takeuchi
+[^7]: Chris Butler, Aaron Nee, Adam Nee, and David Callaham
+[^8]: Chris Mundy, Damon Lindelof, and Tom King
 
 
 
