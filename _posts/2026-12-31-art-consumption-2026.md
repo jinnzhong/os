@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Art Consumption 2026"
-date: 2026-7-31
+date: 2026-8-31
 categories: tracking
 robots: noindex
 ---
@@ -417,11 +417,113 @@ robots: noindex
 |07/31|📃|The Intoxicated (1949)|Shirley Jackson|The Lottery and Other Stories|
 |07/31|📃|The Daemon Lover (1949)|Shirley Jackson|The Lottery and Other Stories|
 
-
 ## August 2026
 
 ||||||
 |---|---|---|---|---|
+|08/01|📃|Like Mother Used to Make (1949)|Shirley Jackson|The Lottery and Other Stories|
+|08/01|📽️|Disclosure Day (2026)|Steven Spielberg|David Koepp|
+|08/02|📺|inside job (2021-2022) S1E8 "Buzzkill"|Vitaliy Strokous|Alisha Brophy & Scott Miles|
+|08/02|📺|inside job (2021-2022) S1E9 "Mole Hunt"|David Ochs|Adam Lederer & Burke Scurfield|
+|08/02|📺|inside job (2021-2022) S1E10 "Inside Reagan"|Mollie Helms & Vitaly Strokous|Various[^6]|
+|08/02|📽️|Masters of the Universe (2026)|Travis Knight|Various[^7]|
+|08/02|📃|Trial by Combat (1944)|Shirley Jackson|New Yorker|
+|08/02|📃|The Villager (1949)|Shirley Jackson|The Lottery and Other Stories|
+|08/02|📃|My Life with R.H. Macy (1949)|Shirley Jackson|The Lottery and Other Stories|
+|08/03|📃|The Witch (1949)|Shirley Jackson|The Lottery and Other Stories|
+|08/03|📺|Futurama (1999-) S8E2 "Children of a Lesser Bog"|Edmund Fong|Eric Horsted|
+|08/03|📃|The Renegade (1948)|Shirley Jackson|Harper's|
+|08/04|📃|Immortality (2003)|Yiyun Li|Paris Review|
+|08/04|📺|Widow's Bay (2026) S1E1 "Welcome to Widow's Bay"|Hiro Murai|Katie Dippold|
+|08/04|📃|Monarch (2026)|PK Damilare Abiodun|One Story|
+|08/05|📖|Lord of the Flies (1954)|William Golding||
+|08/05|📃|Domestic Scene with Suspended Child (2026)|Jan Carson|AGNI|
+|08/05|📰|Mardi Gras (2026)|Christie Hodgen|AGNI|
+|08/06|📃|My Teacher (2026)|John Cotter|AGNI|
+|08/08|📽️|The Odyssey (2026)|Christopher Nolan|Christopher Nolan|
+|08/09|📽️|The Devil Wears Prada 2 (2026)|David Frankel|Aline Brosh McKenna|
+|08/10|📽️|The Bodyguard (1992)|Mick Jackson|Lawrence Kasdan|
+|08/10|📽️|Dial M for Murder (1954)|Alfred Hitchcock|Frederick Knott|
+|08/11|🏛️|Teatro Colon (1908)|||
+|08/11|🏛️|Museo Xul Solar (1993)|||
+|08/13|🏛️|Museo Nacional de Bellas Artes (1896)|||
+|08/13|🏛️|Museo de Arte Latinoamericano de Buenos Aires (MALBA) (2001)|||
+|08/14|🏛️|La Recoleta Cemetery (1882)|||
+|08/14|🏛️|Museo Evita (2002)|||
+|08/14|📖|The Poisonwood Bible (1998)|Barbara Kingsolver||
+|08/15|🏛️|Galerías Pacífico (1889)|||
+|08/15|🏛️|El Zanjón De Granados|||
+|08/15|🏛️|Café Tortoni (1858)|||
+|08/15|🏛️|Museo de Arte Moderno de Buenos Aires (MAMBA)(1956)|||
+|08/15|🏛️|Cabildo of Buenos Aires (1748)|||
+|08/15|🏛️|Casa Rosada Museum (2010)|||
+|08/16|🏛️|Museo del Mate|||
+|08/16|🏛️|Museo de Cera|||
+|08/16|🏛️|La Bombonera (1940)|||
+|08/16|🏛️|Museo Histórico Nacional (1891)|||
+|08/19|📖|Their Eyes Were Watching God (1937)|Zora Neale Hurston||
+|08/20|📽️|Out of Sight (1998)|Steven Soderberg|Scott Frank|
+|08/20|📽️|Marty Supreme (2025)|Josh Safdie|Ronald Bronstein & Josh Safdie|
+|08/21|📽️|F1 (2025)|Joseph Kosinski|Ehren Kruger|
+|08/21|📺|Lanterns (2026-) S1E1 "Pilot"|James Hawes|Various[^]
+|08/22|📃|New River Cinema (2026)|Andrew Zornoza|AGNI|
+|08/22|🎭|Ride the Cyclone (2009)[^9]|Jacob Richmond &
+Brooke Maxwell|Jacob Richmond & Brooke Maxwell|
+|08/22|📃|Into the Sun (2022)|Lauren Davis|Cutleaf|
+|08/22|📃|The One Who Tucks You in at Night (2025)|Lauren Davis|The Nothing|
+|08/22|📃|Gone, Ralph, Gone (2019)|Lauren Davis|The Cabinet of Heed|
+|08/22|📃|The Bright (2019)|Lauren Davis|Inverted Syntax|
+|08/22|📃|My Medusa (2019)|Lauren Davis|Three Drops from a Cauldron|
+|08/23|📃|The Cowherd (2026)|Charu Sinha|AGNI|
+|08/23|📃|No Eyes for Them (2023)|Lauren Davis|Coppice Prize Anthology|
+|08/23|📃|Tastes Like Rat (2025)|Lauren Davis|The Nothing|
+|08/23|📃|Gekker (2024)|Lauren Davis|Chapter House|
+|08/23|📃|Days Come Around Again (2025)|Lauren Davis|The Nothing|
+|08/23|📃|Tell Us Our Names (2025)|Lauren Davis|The Nothing|
+|08/23|📃|All Our Little Ones (2025)|Lauren Davis|The Nothing|
+|08/23|📃|What the Body Says (2025)|Lauren Davis|The Nothing|
+|08/23|📃|Please Enjoy Going Where You Are Going (2023)|Lauren Davis|miniskirt|
+|08/23|📃|Play With Me (2021)|Lauren Davis|FlashFlood|
+|08/23|📃|The Things She Did (2019)|Lauren Davis|Hobart|
+|08/23|📃|My Cat Called Chester (2025)|Lauren Davis|Free State Review|
+|08/23|📃|The Club (2025)|Lauren Davis|The Nothing|
+|08/23|📃|The Sleeping Cure (2025)|Lauren Davis|The Nothing|
+|08/23|📃|Sloan (2025)|Lauren Davis|The Nothing|
+|08/24|📃|After You, My Dear Alphonse (1943)|Shirley Jackson|New Yorker|
+|08/24|📃|Charles (1948)|Shirley Jackson|Mademoiselle|
+|08/24|📃|Afternoon in Linen (1943)|Shirley Jackson|New Yorker|
+|08/24|📃|Flower Garden (1949)|Shirley Jackson|The Lottery and Other Stories|
+|08/25|📃|Dorothy and My Grandmother and the Sailors (1949)|Shirley Jackson|The Lottery and Other Stories|
+|08/25|📃|Colloquy (1944)|Shirley Jackson|New Yorker|
+|08/26|📃|Elizabeth (1949)|Shirley Jackson|The Lottery and Other Stories|
+|08/26|📃|A Very Old Man with Enormous Wings (1968)|Gabriel García Márquez|Casa de las Américas|
+|08/27|📃|A Fine Old Firm (1944)|Shirley Jackson|New Yorker|
+|08/27|📃|The Dummy (1949)|Shirley Jackson|The Lottery and Other Stories|
+|08/27|📃|Seven Types of Ambiguity (1948)|Shirley Jackson|Story|
+|08/27|📽️|Tony (2026)|Matt Johnson|Various[^10]|
+|08/28|📃|The Intern (2026)|Leyla Shukurli tr. Sabrina Jaszi|AGNI|
+|08/28|📃|Gun Stories (2026)|Jane Morton|AGNI|
+|08/28|📃|I Am Here (2026)|Khalida Hussain tr. Farah Ali|AGNI|
+|08/29|📃|It Happens (2026)|Anthony Walker|One Story|
+|08/29|📺|Widow's Bay (2026) S1E1 "Welcome to Widow's Bay"|Hiro Murai|Katie Dippold|
+|08/29|📺|Widow's Bay (2026) S1E2 "Lodging"|Hiro Murai|Kelly Galuska|
+|08/29|📃|In Penal Colony 𝘅 (2026)|Jung Young Moon tr. Tae Rang Kim|Kenyon Review|
+|08/30|📺|Widow's Bay (2026) S1E3 "The Inaugural Swim"|Hiro Murai|Neil Casey|
+|08/30|📽️|Spider-Man: Brand New Day (2026)|Destin Daniel Cretton|Chris McKenna & Erik Sommers|
+|08/30|📺|Widow's Bay (2026) S1E5 "What to Expect on Your Trip"|Andrew DeYoung|Colton Dunn|
+|08/30|📃|The Golden Apples of Little River, Alabama (2026)|Kate Tooley|Kenyon Review|
+|08/30|📃|What the Photos Didn't Reveal (2026)|T.C. Boyle|Kenyon Review|
+|08/31|📃|The Enemy (2026)|Joan Larkin|Kenyon Review|
+|08/31|📃|Body Scan (2026)|Carly Berwick|Kenyon Review|
+|08/30|📺|Widow's Bay (2026) S1E6 "Our History"|Ti West|Alberto Roldán|
+|08/31|📃|Blood Type (2026)|Reif Larsen|Virginia Quarterly|
+
+
+## September 2026
+
+||||||
+|---|---|---|---|---|
+
 
 ## Numbers
 
@@ -434,7 +536,7 @@ robots: noindex
 |MAY |4   |36  |0   |1   |19  |0   |0   |18  |1   |3   |1   |0   |0   |0   |0   |0   |
 |JUN |1   |31  |0   |3   |0   |0   |1   |2   |1   |0   |0   |0   |0   |0   |0   |0   |
 |JUL |2   |26  |0   |3   |0   |0   |1   |25  |3   |1   |0   |2   |0   |0   |0   |0   |
-|AUG |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|AUG |3   |52  |0   |1   |0   |0   |0   |11  |11  |1   |0   |0   |0   |16  |0   |0   |
 |SEP |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |OCT |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |NOV |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
@@ -477,6 +579,7 @@ robots: noindex
 [^6]: Alisha Brophy, Scott Miles, and Shion Takeuchi
 [^7]: Chris Butler, Aaron Nee, Adam Nee, and David Callaham
 [^8]: Chris Mundy, Damon Lindelof, and Tom King
-
+[^9]: Chief Sepass Theatre - P.L.A.Y. Society Production
+[^10]: Matt Johnson, Matthew Miller, Todd Bartels, and Lou Howe
 
 
