@@ -467,8 +467,7 @@ robots: noindex
 |08/21|📽️|F1 (2025)|Joseph Kosinski|Ehren Kruger|
 |08/21|📺|Lanterns (2026-) S1E1 "Pilot"|James Hawes|Various[^]
 |08/22|📃|New River Cinema (2026)|Andrew Zornoza|AGNI|
-|08/22|🎭|Ride the Cyclone (2009)[^9]|Jacob Richmond &
-Brooke Maxwell|Jacob Richmond & Brooke Maxwell|
+|08/22|🎭|Ride the Cyclone (2009)[^9]|Jacob Richmond & Brooke Maxwell|id.|
 |08/22|📃|Into the Sun (2022)|Lauren Davis|Cutleaf|
 |08/22|📃|The One Who Tucks You in at Night (2025)|Lauren Davis|The Nothing|
 |08/22|📃|Gone, Ralph, Gone (2019)|Lauren Davis|The Cabinet of Heed|
