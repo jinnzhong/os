@@ -465,7 +465,7 @@ robots: noindex
 |08/20|📽️|Out of Sight (1998)|Steven Soderberg|Scott Frank|
 |08/20|📽️|Marty Supreme (2025)|Josh Safdie|Ronald Bronstein & Josh Safdie|
 |08/21|📽️|F1 (2025)|Joseph Kosinski|Ehren Kruger|
-|08/21|📺|Lanterns (2026-) S1E1 "Pilot"|James Hawes|Various[^]
+|08/21|📺|Lanterns (2026-) S1E1 "Pilot"|James Hawes|Various[^9]
 |08/22|📃|New River Cinema (2026)|Andrew Zornoza|AGNI|
 |08/22|🎭|Ride the Cyclone (2009)[^9]|Jacob Richmond & Brooke Maxwell|id.|
 |08/22|📃|Into the Sun (2022)|Lauren Davis|Cutleaf|
