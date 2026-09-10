@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Short Codes for Short Fiction"
+title: "Shortcodes for Shorts"
 date: 2026-09-09
 categories: lexicon
 robots: noindex
