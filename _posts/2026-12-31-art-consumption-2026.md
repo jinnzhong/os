@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Art Consumption 2026"
-date: 2026-8-31
+date: 2026-9-30
 categories: tracking
 robots: noindex
 ---
@@ -522,7 +522,78 @@ robots: noindex
 
 ||||||
 |---|---|---|---|---|
+|09/01|📃|Western (2026)|Owen Park|Virginia Quarterly|
+|09/01|📃|Keeping Watch (2026)|Stephen Kearse|Virginia Quarterly|
+|09/01|📃|Damaged Goods (2026)|Emily Adrian|Sewanee Review|
+|09/01|📺|Community (2009-2015) S3E10 "Regional Holiday Music"|Tristram Shapeero|Steve Basilone & Annie Mebane|
+|09/01|📺|Community (2009-2015) S3E11 "Urban Matrimony and the Sandwich Arts"|Kyle Newacheck|Vera Santamaria|
+|09/02|📃|The Vanishing (2026)|Azareen Van der Vliet Oloomi|Sewanee Review|
+|09/02|📃|The Angel of Hung Hom Road (2026)|Jessie Li|Sewanee Review|
+|09/02|📃|Dead Man's Drive (2026)|Adam O'Fallon Price|Sewanee Review|
+|09/03|📃|A Season of Crows (2026)|Larah Luna|CBC|
+|09/03|📃|Fleur (1987)|Louise Erdrich|Esquire|
+|09/04|📽️|Nirvanna the Band the Show the Movie (2025)|Matt Johnson|Matt Johnson & Jay McCarrol|
+|09/04|📃|Intercession (2026)|Mary Gaitskill|Granta|
+|09/05|📃|Dathun (2026)|Amie Barrodale|Granta|
+|09/05|📃|Blood Boy (2026)|Hansen Shi|Granta|
+|09/06|📽️|Akira (1988)|Katsuhiro Otomo|Izo Hashimoto & Katsuhiro Otomo|
+|09/07|📃|The Fruit of My Woman (2016)|Han Kang tr. Deborah Smith|Granta|2016)|Han Kang tr. Deborah Smith|Granta|
+|09/07|📺|Lucky (2026) S1E1 "No Shortcuts"|Jonathan Van Tulleken|Jonathan Tropper|
+|09/08|📃|The Acute Wing (2026)|John Jeremiah Sullivan|Granta|
+|09/08|📺|The Good Place (2016-2020) S1E7 "The Eternal Shriek"|Trent O'Donnell|Megan Amram|
+|09/08|📺|The Good Place (2016-2020) S1E8 "Most Improved Player"|Tristram Shapeero|Dan Schofield|
+|09/09|📃|Gold Can Stay (2026)|Rebecca Curtis|Granta|
+|09/10|📃|The Year of the Rat (2026)|Halle Hill|Granta|
+|09/11|📃|Liddy, First to Fly (2018)|Kim Fu|Room|
+|09/12|📺|Lanterns (2026) S1E2 "Trust Fall"|James Hawes|Vanessa Baden Kelly & Chris Mundy|
+|09/12|📺|Lanterns (2026) S1E3 "OutKast"|Stephen Williams|Vanessa Baden Kelly|
+|09/12|📺|Lanterns (2026) S1E4 "The Weenie"|Geeta Vasant Patel|Breannah Gibson|
+|09/13|🏛️|Beaty Museum of Biodiversity (2010)|||
+|09/13|🏛️|Jana Sterbak: Dimensions of Intimacy (2026)|Morris and Helen Belkin Art Gallery (1948)||
+|09/13|📖|The Incendiaries (2018)|R.O. Kwon||
+|09/14|📃|Come Dance With Me in Ireland (1943)|Shirley Jackson|New Yorker|
+|09/14|📃|Of Course (1948)|Shirley Jackson|The Lottery and Other Stories|
+|09/17|📃|Folk Song (1999)|Mary Gaitskill|Nerve.com|
+|09/17|📃|Seventeen Beats, the Chirping Stopped (2026)|Christian Ramirez Ramos|Apex|
+|09/17|📃|An Old Virgin (1998)[^11]|Mary Gaitskill|New Yorker|
+|09/18|📃|The Agonized Face (2007)|Mary Gaitskill|Conjunctions|
+|09/19|📃|Mirror Ball (2003)|Mary Gaitskill|Index|
+|09/19|📺|Lanterns (2026) S1E5 "Lights Out"|Geeta Vasant Patel|Justin Britt-Gibson|
+|09/19|📺|Stuart Fails to Save the Universe (2026) S1E1 "Spoiler: Gary Dies"|Kyle Newacheck|Various[^12]|
+|09/19|📺|Stuart Fails to Save the Universe (2026) S1E2 "Spoiler: Zack's in This One"|Kyle Newacheck|Various[^12]|
+|09/19|📃|Today I'm Yours (2005)|Mary Gaitskill|Zoetrope|
+|09/20|📃|Two Words (1989)|Isabel Allende tr. Margaret Sayers Peden|The Stories of Eva Luna|
+|09/20|🏛️|Greg Girard (2026)|Polygon Gallery||
+|09/21|📃|The Little Boy (2006)|Mary Gaitskill|Harper's|
+|09/23|📃|The Arms and Legs of the Lake (2008)|Mary Gaitskill|Zoetrope|
+|09/24|📺|Lanterns (2026) S1E6 "Bad Optics"|Stephen Williams|Justin Britt-Gibson & Damon Lindelof|
+|09/24|📽️|Coyote vs. Acme (2026)|Dave Green|Samy Burch|
+|09/24|📃|Description (2009)|Mary Gaitskill|Threepenny Review|
+|09/25|📺|Andor (2022-2025) S1E3 "Reckoning"|Toby Haynes|Tony Gilroy|
+|09/26|📃|Don't Cry ()|Mary Gaitskill|New Yorker|
+|09/26|🏛️|Jeff Wall: Inside (2026)|West Vancouver Museum||
+|09/26|📃|Men with Their Big Shoes(1947)|Shirley Jackson|Yale Review|
+|09/27|📃|The Tooth (1948)|Shirley Jackson|The Lottery and Other Stories|
+|09/27|📃|Got a Letter From Jimmy (1948)|Shirley Jackson|The Lottery and Other Stories|
+|09/27|📃|The Lottery (1948)|Shirley Jackson|New Yorker|
+|09/28|📃|Unmasking Historical Legacies (2026)|Angelo Hernandez Sias|n+1|
+|09/29|📃|"Sorry" Doesn't Sweeten Her Tea (2015)|Helen Oyeyemi|Ploughshares|
+|09/29|📃|At the Mouth of the River of Bees (2003)|Kij Johnson|SciFi.com|
+|09/29|📃|The Wind (2021)|Lauren Groff|New Yorker|
+|09/29|📃|The Island at Noon (1966)|Julio Cortázar|All Fires the Fire|
+|09/30|📃|The Christmas Miracle (2013)|Rebecca Curtis|New Yorker|
+|09/30|📃|At the Taxidermy Museum of Military Heroes (2018)|Steven Dunn|Water and Power|
+|09/30|📃|The White Girl (2015)|Luis Alberto Urrea|The Water Museum|
+|09/30|📃|Skin (2020)|Sejah Shab|Hanging Loose|
+|09/30|📃|Bigsby (2021)|Maruice Carlos Ruffin|The Ones Who Don't Say They Love You|
+|09/30|📃|Over There (2020)|Patricia Q. Bidar|Smokelong Quarterly|
+|09/30|📃|The Pregnancy Game (2019)|Michelle Ross|Fanzine|
 
+
+## October 2026
+
+||||||
+|---|---|---|---|---|
 
 ## Numbers
 
@@ -536,7 +607,7 @@ robots: noindex
 |JUN |1   |31  |0   |3   |0   |0   |1   |2   |1   |0   |0   |0   |0   |0   |0   |0   |
 |JUL |2   |26  |0   |3   |0   |0   |1   |25  |3   |1   |0   |2   |0   |0   |0   |0   |
 |AUG |3   |52  |0   |1   |0   |0   |0   |11  |11  |1   |0   |0   |0   |16  |0   |0   |
-|SEP |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|SEP |1   |45  |0   |0   |0   |0   |0   |13  |3   |0   |0   |0   |0   |4   |0   |0   |
 |OCT |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |NOV |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |DEC |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
