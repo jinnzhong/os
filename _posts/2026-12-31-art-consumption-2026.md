@@ -651,5 +651,6 @@ robots: noindex
 [^8]: Chris Mundy, Damon Lindelof, and Tom King
 [^9]: Chief Sepass Theatre - P.L.A.Y. Society Production
 [^10]: Matt Johnson, Matthew Miller, Todd Bartels, and Lou Howe
-
+[^11]: Originally published as "A Dream of Men"
+[^12]: Chuck Lorre, Zak Penn & Bill Prady
 
