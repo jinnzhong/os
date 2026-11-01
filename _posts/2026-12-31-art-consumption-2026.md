@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Art Consumption 2026"
-date: 2026-9-30
+date: 2026-10-31
 categories: tracking
 robots: noindex
 ---
@@ -594,6 +594,114 @@ robots: noindex
 
 ||||||
 |---|---|---|---|---|
+|10/01|📃|Joint Enterprise (2026)|David Wingrave|n+1|
+|10/02|🎭|& Juliet (2019)[^13]|Max Martin et al.|David West Read|
+|10/03|📃|The Intoxicated (1949)	Shirley Jackson	The Lottery and Other Stories|
+|10/05|📃|Sparrow (2022)|George Saunders|Liberation Day|
+|10/06|📃|Is Your Blood as Red as This (2016)|Helen Oyeyemi|What Is Not Yours Is Not Yours|
+|10/06|📃|Drownings (2015)|Helen Oyeyemi|The White Review|
+|10/07|📃|A Letter That Never Reached Russia (1925)|Vladimir Nabokov|Rul'|
+|10/07|📃|A Letter That Never Reached England (2012)|Matt Thomas|White Review|
+|10/08|📃|Offense and Satisfaction (2026)|Courtney Marcelo Norton|One Story|
+|10/08|📽️|Primetime (2026)|Lance Oppenheim|Ajon Singh|
+|10/09|📃|All The Poems Contained Within Will Mean Everything to Everyone (2018)|Joe Dunthorne|Rough Trade Books|
+|10/09|📃|How to Pronounce Knife (2017)|Souvankham Thammavongsa|Granta|
+|10/10|📺|Andor (2022-2025) S1E4 "Aldhani"|Susanna White|Dan Gilroy|
+|10/10|📺|Andor (2022-2025) S1E5 "The Axe Forgets"|Susanna White|Dan Gilroy|
+|10/10|📺|Andor (2022-2025) S1E6 "The Eye"|Susanna White|Dan Gilroy|
+|10/11|🏛️|RESIST! (2026)|Rawan Hassan روان حسن, Gord Hill, Laurence Hyde, and Elizabeth MacKenzie|Burnaby Art Gallery|
+|10/11|📖|Klara and the Sun (2021)|Kazuo Ishiguro||
+|10/11|📃|Story of My Life (2009)|A.L. Kennedy|Granta|
+|10/11|📺|Andor (2022-2025) S1E7 "Announcement"|Benjamin Caron|Stephen Schiff|
+|10/11|📃|Colossus of Rhodes (2019)|Chris Powers|Mothers|
+|10/12|📃|Differently (1989)|Alice Munroe|New Yorker|
+|10/13|📃|Paris (2016)|Souvankham Thammavongsa|Ricepaper|
+|10/13|📃|Slingshot (2018)|Souvankham Thammavongsa|Harper's|
+|10/13|📃|Nadine at Forty (1996)|Hilary Mantel|Granta|
+|10/13|📃|Nadine at Forty (1996)|Hilary Mantel|Granta|
+|10/13|📃|Randy Travis (2020)|Souvankham Thammavongsa|How to Pronounce Knife|
+|10/13|📃|A Tree, a Rock, a Cloud (1942)|Carson McCullers|Harper’s Bazaar|
+|10/14|📃|Mani Pedi (2015)|Souvangkham Thammavongsa|The Puritan|
+|10/14|📃|Chick-A-Chee! (2015)|Souvangkham Thammavongsa|Postcolonial Text|
+|10/14|📃|The Universe Would Be So Cruel (2017)|Souvangkham Thammavongsa|NOON|
+|10/14|📃|Edge of the World (2020)|Souvangkham Thammavongsa|How to Pronounce Knife|
+|10/15|📃|What We're Teaching our Sons (nos. 18-23) (2016)|Owen Booth|3AM Magazine|
+|10/15|📃|In the Cemetary Where Al Jolson Is Buried (1983)|Amy Hempel|TriQuarterly|
+|10/15|📃|The School Bus Driver (2015)|Souvangkham Thammavongsa|NOON|
+|10/15|📃|You Are So Embarrassing (2017)|Souvangkham Thammavongsa|The New Quarterly|
+|10/15|📃|Ewwrrrkk (2015)|Souvangkham Thammavongsa|Joyland|
+|10/15|📃|The Gas Station (2019)|Souvangkham Thammavongsa|The Paris Review|
+|10/15|📃|A Far Distant Thing (2020)|Souvangkham Thammavongsa|How to Pronounce Knife|
+|10/15|📃|Picking Worms (2018)|Souvangkham Thammavongsa|Ploughshares|
+|10/15|📺|Downton Abbey (2010-2015) S1E1|Brian Percival|Julian Fellowes|
+|10/16|📃|The Calm (1979)|Raymond Carver|Iowa Review|
+|10/16|📃|Razor (1926)|Vladimir Nabokov|Rul'|
+|10/16|📃|Hair (2020)|Mahreen Sohail|Granta|
+|10/17|📃|Cervidae, New and Sharp (2026)|Anj Baker|Apex|
+|10/17|📃|When I Heard Calypso (2026)|Rob Cameron|Apex|
+|10/17|📃|In Your Diminishing Tongue (2026)|Indigo Rue|Apex|
+|10/18|📽️|Social Reckoning (2026)|Aaron Sorkin|Aaron Sorkin|
+|10/19|📃|The Piano Teacher's Pupil (2001)|William Trevor|BBC Music Magazine|
+|10/19|📃|The Piano Teacher's Pupil (2001)|William Trevor|BBC Music Magazine|
+|10/19|📃|Forever Overhead (1991)|David Foster Wallace|Fiction International|
+|10/19|📃|Forever Overhead (1991)|David Foster Wallace|Fiction International|
+|10/19|📃|Presence (2016)|Helen Oyeyemi|what is not yours is not yours|
+|10/19|📃|Fable (2020)|Kathryn Scanlan|Granta|
+|10/20|📃|The Pomegranate (1945)|Yasunari Kawabata tr. Edward G. Seidensticker||
+|10/21|📃|The Girl Who Raised Pigeons (1992)|Edward P. Jones|Lost in the City|
+|10/21|📃|In the Orchard (1923)|Virginia Woolf|The Criterion|
+|10/21|📃|The Polish Rider (2016)|Ben Lerner|New Yorker|
+|10/22|📃|Susan Sontag (2018)|Kate Zambreno|BOMB|
+|10/22|📃|Speer (2018)|Sheila Heti|Granta|
+|10/23|📃|Mohammed Shatta (2026)|Yasser Abdellatif|n+1|
+|10/23|📃|Beckley Furnace Road (2026)|Gillian Linden|n+1|
+|10/24|📺|Andor (2022-2025) S1E10 "One Way Out"|Toby Haynes|Beau Willimon|
+|10/24|📺|Andor (2022-2025) S1E11 "Daughers of Ferrix"|Benjamin Caron|Tony Gilroy|
+|10/24|📺|Lanterns (2026-) S1E7 "The Jordan Boys' Legacy"|Alik Sakharov|Damon Lindelof & Tom King|
+|10/24|📺|Lanterns (2026-) S1E8 "Dirt and Stars"|Alik Sakharov|Various[^14]|
+|10/25|📺|Andor (2022-2025) S1E12 "Rix Road"|Benjamin Caron|Tony Gilroy|
+|10/25|📺|Widow's Bay (2026-) S1E7 "Seasickness"|Sam Donovan|Dave Harris|
+|10/25|📺|Widow's Bay (2026-) S1E8 "Your Baggage"|Andrew DeYoung|Emma Ketchum|
+|10/25|📺|Widow's Bay (2026-) S1E9 "Emergency Shelter"|Hiro Murai|Bobak Esfarjani|
+|10/25|📺|Widow's Bay (2026-) S1E10 "We Hope You Enjoyed Your Time!"|Hiro Murai|Katie Dippold|
+|10/25|📃|a brief history of the homely wench society (2016)|Helen Oyeyemi|what is not yours is not yours|
+|10/25|📃|Natterbean (2018)|June Caldwell|Room Little Darker|
+|10/25|📃|The Sweet Shop (2017)|Ingrid Persaud|Granta|
+|10/25|📃|The Legion (2024)|Shaun Wilson|Granta|
+|10/26|📃|Dornička and the St. Martin's Day Goose (2016)|Helen Oyeyemi|Casten Höller: Decision|
+|10/27|📃|Two Calamaties (2016)|Renee Gladman|Calamaties|
+|10/27|📃|Bezoar (2016)|Guadalupe Nettel tr. Suzanne Jill Levine|Granta|
+|10/27|📃|Why I Can No Longer Look at a Picnic Blanket Without Laughing (2014)|Yukiko Motoya tr. Asa Yoneda|Granta|
+|10/27|📃|freddy barranodov checks... in? (2016)|Helen Oyeyemi|what is not yours is not yours|
+|10/27|📃|if a book is locked there's probably a good reason for that don't you think (2016)|Helen Oyeyemi|what is not yours is not yours|
+|10/27|📃|Am Strande Von Tanger (1968)|James Salter|Paris Review|
+|10/28|📃|Twenty Minutes (1988)|James Salter|Grand Street|
+|10/28|📃|American Express (1988)|James Salter|Equire|
+|10/28|🎸|Wisp|Rogers Arena||
+|10/28|📃|The Meme That Launched A Thousand Pets (2026)|Arvee Fantilagan|khōréō|
+|10/28|📃|The Monkey King in Orbit (2026)|Victoria N. Shi|khōréō|
+|10/28|🎸|Beabadoobee|Rogers Arena||
+|10/29|📃|Foreign Shores (1983)|James Salter|Esquire|
+|10/29|📃|Love (1952)|Clarice Lispector tr. Katrina Dodson|Alguns Contos|
+|10/29|📺|Visionquest (2026) S1E1 "No Strings"|Christopher J. Byrne|Terry Matalas|
+|10/29|📺|Minimum Wage (2026) S1E3 "Breakup"|Julia DiCesare|Julia DiCesare|
+|10/29|📺|Minimum Wage (2026) S1E4 "Birthday Cake"|Ryan & Aiden Ryan Micho|Ryan Micho|
+|10/29|📺|Minimum Wage (2026) S1E5 "No Phones"|Luke Burke|Luke Burke|
+|10/29|📺|Minimum Wage (2026) S1E6 "Lottery Tickets"|Ryan Micho & Grace Reiter|ibid|
+|10/29|📺|Minimum Wage (2026) S1E7 "No Phones"|Will Phelps|Will Phelps|
+|10/30|📃|Ten Excerpts from an Annotated Bibliography of the Cannibal Women of Ratanbar Island (2019)|Nibedita Sen|Nightmare|
+|10/30|📃|All in Good Time (2020)|Isha Karki|Galley Begger|
+|10/30|📃|Off Days (2016)|Shane Jones|Adroit Journal|
+|10/30|📃|The Fly (1922)|Katherine Masfield|The Nation|
+|10/30|📃|Sredni Vashtar (1911)|Saki|Chronicles of Clovis|
+|10/30|📃|Direction of the Road (1973)|Ursula K. Le Guin|Orbit|
+|10/30|📃|The Berg (2019)|Richard Smyth|Unthology|
+|10/𝜆|💿|Visions (2012)|Grimes||
+
+## November 2026
+
+||||||
+|---|---|---|---|---|
 
 ## Numbers
 
@@ -608,7 +716,7 @@ robots: noindex
 |JUL |2   |26  |0   |3   |0   |0   |1   |25  |3   |1   |0   |2   |0   |0   |0   |0   |
 |AUG |3   |52  |0   |1   |0   |0   |0   |11  |11  |1   |0   |0   |0   |16  |0   |0   |
 |SEP |1   |45  |0   |0   |0   |0   |0   |13  |3   |0   |0   |0   |0   |4   |0   |0   |
-|OCT |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
+|OCT |1   |75  |0   |0   |0   |0   |0   |20  |2   |1   |1   |2   |0   |1   |0   |0   |
 |NOV |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |DEC |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |0   |
 |~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|~~~|
@@ -653,4 +761,5 @@ robots: noindex
 [^10]: Matt Johnson, Matthew Miller, Todd Bartels, and Lou Howe
 [^11]: Originally published as "A Dream of Men"
 [^12]: Chuck Lorre, Zak Penn & Bill Prady
-
+[^13]: Queen Elizabeth Theatre: dir. Luke Sheppard
+[^14]: Chris Mundy, Damon Lindelof & Tom King
