@@ -596,7 +596,7 @@ robots: noindex
 |---|---|---|---|---|
 |10/01|📃|Joint Enterprise (2026)|David Wingrave|n+1|
 |10/02|🎭|& Juliet (2019)[^13]|Max Martin et al.|David West Read|
-|10/03|📃|The Intoxicated (1949)	Shirley Jackson	The Lottery and Other Stories|
+|10/03|📃|The Intoxicated (1949)|Shirley Jackson|The Lottery and Other Stories|
 |10/05|📃|Sparrow (2022)|George Saunders|Liberation Day|
 |10/06|📃|Is Your Blood as Red as This (2016)|Helen Oyeyemi|What Is Not Yours Is Not Yours|
 |10/06|📃|Drownings (2015)|Helen Oyeyemi|The White Review|
